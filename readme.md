@@ -30,6 +30,10 @@ This section includes code libraries in various programming languages which vend
 - [First look into AWS Cloud Development Kit](https://garbe.io/blog/2018/08/17/first-look-into-cdk/) by Philipp Garbe
 - [Getting started with AWS CDK for Amazon ECS](https://aws.amazon.com/blogs/compute/getting-started-with-the-aws-cloud-development-kit-for-amazon-ecs/) by Nathan Peck
 
+## Tips & Tricks
+
+- [Reflect on the CDK Type System](https://gist.github.com/eladb/68a009cf9c953b04a637bac5c40afdbc) (gist)
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
