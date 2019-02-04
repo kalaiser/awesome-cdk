@@ -9,6 +9,7 @@ A curated list of awesome projects related to the [AWS Cloud Development Kit](ht
 - [Construct Libraries](#construct-libraries)
 - [Training Materials](#training-materials)
 - [Blog Posts](#blog-posts)
+- [Tips & Tricks](#tips--tricks)
 
 ## Construct Libraries
 
