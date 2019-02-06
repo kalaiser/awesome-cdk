@@ -24,13 +24,14 @@ This section includes code libraries in various programming languages which vend
 - [CDK Serverless Workshop](https://cdkworkshop.com/)
 - [Infrastructure is Code with the AWS CDK](https://youtu.be/Lh-kVC2r2AU): recording of re:Invent 2018 session
 
-## Blog Posts
+## Blog Posts & Talks
 
 - [Developer Preview Announcement](https://aws.amazon.com/blogs/developer/aws-cdk-developer-preview/)
 - [Contributing to the AWS Cloud Development Kit](https://aws.amazon.com/blogs/developer/contributing-to-the-aws-cloud-development-kit/) by Mike Cowgill from Intuit.
 - [First look into AWS Cloud Development Kit](https://garbe.io/blog/2018/08/17/first-look-into-cdk/) by Philipp Garbe
 - [Getting started with AWS CDK for Amazon ECS](https://aws.amazon.com/blogs/compute/getting-started-with-the-aws-cloud-development-kit-for-amazon-ecs/) by Nathan Peck
 - [AWS re:Invent 2010, best of show: CDK](https://medium.com/allermedia-techblog/aws-re-invent-2018-best-of-show-cloud-development-kit-cdk-ad1755561ade) (Aller Media Tech Blog)
+- [AWS User Group Finland Meetup January 2019](https://youtu.be/IIiIoMGTJec)
 
 ## Tips & Tricks
 
