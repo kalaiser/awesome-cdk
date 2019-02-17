@@ -10,17 +10,20 @@ A curated list of awesome projects related to the [AWS Cloud Development Kit](ht
 - [Training Materials](#training-materials)
 - [Blog Posts](#blog-posts)
 - [Tips & Tricks](#tips--tricks)
+- [Released Projects](#related-projects)
 
 ## Construct Libraries
 
 This section includes code libraries in various programming languages which vend constructs that can be used in CDK apps.
 
+- [aws-delivlib](https://github.com/awslabs/aws-delivlib): synthesizes CI/CD pipelines for multi-language software delivery (used by the CDK itself)
 - [cdk-tweet-queue](https://www.npmjs.com/package/cdk-tweet-queue): fills up an SQS queue with tweets from a tweeter search query.
 - [cdk-dynamo-table-viewer](https://www.npmjs.com/package/cdk-dynamo-table-viewer): exposes the contents of an Amazon DynamoDB table through a public HTML page.
 - [cdk-tweet-sentiment](https://www.npmjs.com/package/cdk-tweet-sentiment): identify sentiments in tweets and log them into an Amazon DynamoDB table.
 
-## Training Materials
+## Training Materials and Sample Code
 
+- [Official CDK Examples](https://github.com/aws-samples/aws-cdk-examples)
 - [CDK Serverless Workshop](https://cdkworkshop.com/)
 - [Infrastructure is Code with the AWS CDK](https://youtu.be/Lh-kVC2r2AU): recording of re:Invent 2018 session
 
@@ -33,6 +36,10 @@ This section includes code libraries in various programming languages which vend
 - [AWS re:Invent 2018, best of show: CDK](https://medium.com/allermedia-techblog/aws-re-invent-2018-best-of-show-cloud-development-kit-cdk-ad1755561ade) (Aller Media Tech Blog)
 - [AWS User Group Finland Meetup January 2019](https://youtu.be/IIiIoMGTJec)
 - [AWS CDK — a glimpse into the future](https://medium.com/nordcloud-engineering/aws-cdk-a-glimpse-into-the-future-90db660f8a89) (Nordcloud Engineering)
+
+## Related Projects
+
+- [jsii](https://github.com/awslabs/jsii) - javascript interop interface, the technology the CDK uses to release to multiple programming langauges.
 
 ## Tips & Tricks
 
