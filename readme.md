@@ -32,6 +32,7 @@ This section includes code libraries in various programming languages which vend
 - [Getting started with AWS CDK for Amazon ECS](https://aws.amazon.com/blogs/compute/getting-started-with-the-aws-cloud-development-kit-for-amazon-ecs/) by Nathan Peck
 - [AWS re:Invent 2018, best of show: CDK](https://medium.com/allermedia-techblog/aws-re-invent-2018-best-of-show-cloud-development-kit-cdk-ad1755561ade) (Aller Media Tech Blog)
 - [AWS User Group Finland Meetup January 2019](https://youtu.be/IIiIoMGTJec)
+- [AWS CDK — a glimpse into the future](https://medium.com/nordcloud-engineering/aws-cdk-a-glimpse-into-the-future-90db660f8a89) (Nordcloud Engineering)
 
 ## Tips & Tricks
 
