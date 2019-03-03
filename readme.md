@@ -20,6 +20,8 @@ This section includes code libraries in various programming languages which vend
 - [cdk-tweet-queue](https://www.npmjs.com/package/cdk-tweet-queue): fills up an SQS queue with tweets from a tweeter search query.
 - [cdk-dynamo-table-viewer](https://www.npmjs.com/package/cdk-dynamo-table-viewer): exposes the contents of an Amazon DynamoDB table through a public HTML page.
 - [cdk-tweet-sentiment](https://www.npmjs.com/package/cdk-tweet-sentiment): identify sentiments in tweets and log them into an Amazon DynamoDB table.
+- [Alexa Deployment Pipeline](https://github.com/taimos/cdk-constructs/tree/master/lib/alexa): Construct which creates a CodePipeline to deploy Alexa Skills to Lambda and to the Developer console using AWS SAM and DeployToAlexa action.
+
 
 ## Training Materials and Sample Code
 
