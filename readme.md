@@ -7,7 +7,7 @@ A curated list of awesome projects related to the [AWS Cloud Development Kit](ht
 ## Contents
 
 - [Construct Libraries](#construct-libraries)
-- [Training Materials](#training-materials)
+- [Training Materials and Sample Code](#training-materials-and-sample-code)
 - [Blog Posts](#blog-posts)
 - [Tips & Tricks](#tips--tricks)
 - [Released Projects](#related-projects)
@@ -22,12 +22,12 @@ This section includes code libraries in various programming languages which vend
 - [cdk-tweet-sentiment](https://www.npmjs.com/package/cdk-tweet-sentiment): identify sentiments in tweets and log them into an Amazon DynamoDB table.
 - [Alexa Deployment Pipeline](https://github.com/taimos/cdk-constructs/tree/master/lib/alexa): Construct which creates a CodePipeline to deploy Alexa Skills to Lambda and to the Developer console using AWS SAM and DeployToAlexa action.
 
-
 ## Training Materials and Sample Code
 
 - [Official CDK Examples](https://github.com/aws-samples/aws-cdk-examples)
 - [CDK Serverless Workshop](https://cdkworkshop.com/)
 - [Infrastructure is Code with the AWS CDK](https://youtu.be/Lh-kVC2r2AU): recording of re:Invent 2018 session
+- [GitHub Changelog Crawler](https://github.com/aws-samples/aws-cdk-changelogs-demo) - a fully fledged CDK app written by Nathan Peck which uses Fargate, API Gateway, Lambda, CloudFront, S3, ElastiCache, and Dynamodb.
 
 ## Blog Posts & Talks
 
