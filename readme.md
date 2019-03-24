@@ -38,6 +38,7 @@ This section includes code libraries in various programming languages which vend
 - [AWS re:Invent 2018, best of show: CDK](https://medium.com/allermedia-techblog/aws-re-invent-2018-best-of-show-cloud-development-kit-cdk-ad1755561ade) (Aller Media Tech Blog)
 - [AWS User Group Finland Meetup January 2019](https://youtu.be/IIiIoMGTJec)
 - [AWS CDK — a glimpse into the future](https://medium.com/nordcloud-engineering/aws-cdk-a-glimpse-into-the-future-90db660f8a89) (Nordcloud Engineering)
+- [AWS Infrastructure as Code with CDK](https://itnext.io/aws-infrastructure-as-code-with-cdk-1d6fa013ce7d) by Ross Rhodes.
 
 ## Related Projects
 
