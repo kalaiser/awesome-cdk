@@ -7,10 +7,11 @@ A curated list of awesome projects related to the [AWS Cloud Development Kit](ht
 ## Contents
 
 - [Construct Libraries](#construct-libraries)
+- [Tools](#tools)
 - [Training Materials and Sample Code](#training-materials-and-sample-code)
 - [Blog Posts](#blog-posts)
 - [Tips & Tricks](#tips--tricks)
-- [Released Projects](#related-projects)
+- [Related Projects](#related-projects)
 
 ## Construct Libraries
 
@@ -22,6 +23,10 @@ This section includes code libraries in various programming languages which vend
 - [cdk-tweet-sentiment](https://www.npmjs.com/package/cdk-tweet-sentiment): identify sentiments in tweets and log them into an Amazon DynamoDB table.
 - [cdk-watchful](https://github.com/eladb/cdk-watchful): automatic dashboards and alarms for CDK apps
 - [Alexa Deployment Pipeline](https://github.com/taimos/cdk-constructs/tree/master/lib/alexa): Construct which creates a CodePipeline to deploy Alexa Skills to Lambda and to the Developer console using AWS SAM and DeployToAlexa action.
+
+## Tools
+
+- [GitHub Action](https://github.com/ScottBrenner/aws-cdk-action) for AWS CDK
 
 ## Training Materials and Sample Code
 
