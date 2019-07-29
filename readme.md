@@ -38,6 +38,7 @@ This section includes code libraries in various programming languages which vend
 
 ## Blog Posts & Talks
 
+- [CDK All The Things: A Whirlwind Tour](https://kevinslin.com/aws/cdk_all_the_things/) by Kevin S Lin
 - [Developer Preview Announcement](https://aws.amazon.com/blogs/developer/aws-cdk-developer-preview/)
 - [Contributing to the AWS Cloud Development Kit](https://aws.amazon.com/blogs/developer/contributing-to-the-aws-cloud-development-kit/) by Mike Cowgill from Intuit.
 - [First look into AWS Cloud Development Kit](https://garbe.io/blog/2018/08/17/first-look-into-cdk/) by Philipp Garbe
