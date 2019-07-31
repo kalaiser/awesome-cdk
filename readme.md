@@ -26,7 +26,7 @@ This section includes code libraries in various programming languages which vend
 
 ## Tools
 
-- [GitHub Action](https://github.com/ScottBrenner/aws-cdk-action) for AWS CDK
+- [GitHub Action](https://github.com/marketplace/actions/aws-cdk-action) for AWS CDK
 
 ## Training Materials and Sample Code
 
