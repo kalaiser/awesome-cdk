@@ -23,6 +23,10 @@ This section includes code libraries in various programming languages which vend
 - [cdk-tweet-sentiment](https://www.npmjs.com/package/cdk-tweet-sentiment): identify sentiments in tweets and log them into an Amazon DynamoDB table.
 - [cdk-watchful](https://github.com/eladb/cdk-watchful): automatic dashboards and alarms for CDK apps
 - [Alexa Deployment Pipeline](https://github.com/taimos/cdk-constructs/tree/master/lib/alexa): Construct which creates a CodePipeline to deploy Alexa Skills to Lambda and to the Developer console using AWS SAM and DeployToAlexa action.
+- [cdk-codepipeline-slack](https://github.com/cloudcomponents/cdk-components/blob/master/packages/cdk-codepipeline-slack): Cdk component that provisions a #slack approval workflow
+- [cdk-github-webhook](https://github.com/cloudcomponents/cdk-components/blob/master/packages/cdk-github-webhook): Cdk component that provisions github webhooks
+- [cdk-static-website](https://github.com/cloudcomponents/cdk-components/blob/master/packages/cdk-static-website): Cdk component that creates a static website using S3, configures CloudFront (CDN) and maps a custom domain via Route53 (DNS)
+- [cdk-pull-request-check](https://github.com/cloudcomponents/cdk-components/blob/master/packages/cdk-pull-request-check): Cdk component that automatically check pull requests
 
 ## Tools
 
