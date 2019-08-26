@@ -42,6 +42,7 @@ This section includes code libraries in various programming languages which vend
 
 ## Blog Posts & Talks
 
+- [How to Build a CDK Construct Library](https://garbe.io/blog/2019/03/26/construct-your-own-cdk-construct-library/) by Philipp Garbe
 - [CDK All The Things: A Whirlwind Tour](https://kevinslin.com/aws/cdk_all_the_things/) by Kevin S Lin
 - [Developer Preview Announcement](https://aws.amazon.com/blogs/developer/aws-cdk-developer-preview/)
 - [Contributing to the AWS Cloud Development Kit](https://aws.amazon.com/blogs/developer/contributing-to-the-aws-cloud-development-kit/) by Mike Cowgill from Intuit.
@@ -61,6 +62,7 @@ This section includes code libraries in various programming languages which vend
 ## Tips & Tricks
 
 - [Reflect on the CDK Type System](https://gist.github.com/eladb/68a009cf9c953b04a637bac5c40afdbc) (gist)
+- [Testing Your Construct Library CodeBuild Configuration Locally](https://github.com/aws/aws-codebuild-docker-images/tree/master/local_builds) with the `jsii/superchain:latest` Docker Image
 
 ## Contribute
 
