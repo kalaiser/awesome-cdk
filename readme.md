@@ -53,6 +53,7 @@ This section includes code libraries in various programming languages which vend
 - [AWS CDK — a glimpse into the future](https://medium.com/nordcloud-engineering/aws-cdk-a-glimpse-into-the-future-90db660f8a89) (Nordcloud Engineering)
 - [AWS Infrastructure as Code with CDK](https://itnext.io/aws-infrastructure-as-code-with-cdk-1d6fa013ce7d) by Ross Rhodes.
 - [Using the CDK for CodePipelines Setup](https://www.stefreitag.de/wp/2019/03/07/using-aws-cdk-for-code-pipeline-setup/) at Th!nk Pos!t!ve.
+- [Serverless Dotnet - E01: Intro to AWS CDK](https://www.youtube.com/watch?v=c9UXHPX6-Ns&list=PLbuD6VMxPZScqUXKm2QAc_InCGdP6jKJy) and [Github repository](https://github.com/jakejscott/aws-cdk-phone-verify-api) by Jake Scott.
 
 ## Related Projects
 
