@@ -9,7 +9,7 @@ A curated list of awesome projects related to the [AWS Cloud Development Kit](ht
 - [Construct Libraries](#construct-libraries)
 - [Tools](#tools)
 - [Training Materials and Sample Code](#training-materials-and-sample-code)
-- [Blog Posts](#blog-posts)
+- [Blog Posts & Talks](#blog-posts--talks)
 - [Tips & Tricks](#tips--tricks)
 - [Related Projects](#related-projects)
 
@@ -57,6 +57,7 @@ This section includes code libraries in various programming languages which vend
 - [Using the CDK for CodePipelines Setup](https://www.stefreitag.de/wp/2019/03/07/using-aws-cdk-for-code-pipeline-setup/) at Th!nk Pos!t!ve.
 - [Serverless Dotnet - E01: Intro to AWS CDK](https://www.youtube.com/watch?v=c9UXHPX6-Ns&list=PLbuD6VMxPZScqUXKm2QAc_InCGdP6jKJy) and [Github repository](https://github.com/jakejscott/aws-cdk-phone-verify-api) by Jake Scott.
 - [AWS Tech Talk Webinar](https://www.youtube.com/watch?v=ZWCvNFUN-sU)
+- [Using CDK to build a UDP NLB Logging Service](https://youtu.be/dXTEVp0ATzo) and [Github Repo](https://github.com/ClouderDex/CDK-UDP-NLB-Demo) by ClouderDex
 
 ## Related Projects
 
