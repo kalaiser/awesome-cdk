@@ -28,6 +28,7 @@ This section includes code libraries in various programming languages which vend
 - [cdk-static-website](https://github.com/cloudcomponents/cdk-components/blob/master/packages/cdk-static-website): Cdk component that creates a static website using S3, configures CloudFront (CDN) and maps a custom domain via Route53 (DNS)
 - [cdk-pull-request-check](https://github.com/cloudcomponents/cdk-components/blob/master/packages/cdk-pull-request-check): Cdk component that automatically check pull requests
 - [cdk-passwordless](https://github.com/farminf/aws-cdk-passwordless): construct for having passwordless authentication using userpool
+- [cdk-ses-template-mailer](https://github.com/mkrn/cdk-ses-template-mailer): Constructs to create AWS SES email templates + microservice to send templated emails with AWS SES.
 
 ## Tools
 
