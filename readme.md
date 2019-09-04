@@ -65,6 +65,7 @@ This section includes code libraries in various programming languages which vend
 ## Related Projects
 
 - [jsii](https://github.com/awslabs/jsii) - javascript interop interface, the technology the CDK uses to release to multiple programming langauges.
+- [punchcard](https://github.com/punchcard/punchcard) - typescript framework to unify infrastructure and runtime code for the CDK, so you can declare constructs and implement runtime logic within the context of one node.js application.
 
 ## Tips & Tricks
 
