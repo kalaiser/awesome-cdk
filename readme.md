@@ -29,6 +29,7 @@ This section includes code libraries in various programming languages which vend
 - [cdk-pull-request-check](https://github.com/cloudcomponents/cdk-components/blob/master/packages/cdk-pull-request-check): Cdk component that automatically check pull requests
 - [cdk-passwordless](https://github.com/farminf/aws-cdk-passwordless): construct for having passwordless authentication using userpool
 - [cdk-ses-template-mailer](https://github.com/mkrn/cdk-ses-template-mailer): Constructs to create AWS SES email templates + microservice to send templated emails with AWS SES.
+- [aws-cdk-pure](https://github.com/fogfish/aws-cdk-pure) - a toolkit to develop purely functional and high-order cloud components with AWS CDK.
 
 ## Tools
 
@@ -61,6 +62,7 @@ This section includes code libraries in various programming languages which vend
 - [Serverless Dotnet - E01: Intro to AWS CDK](https://www.youtube.com/watch?v=c9UXHPX6-Ns&list=PLbuD6VMxPZScqUXKm2QAc_InCGdP6jKJy) and [Github repository](https://github.com/jakejscott/aws-cdk-phone-verify-api) by Jake Scott.
 - [AWS Tech Talk Webinar](https://www.youtube.com/watch?v=ZWCvNFUN-sU)
 - [Using CDK to build a UDP NLB Logging Service](https://youtu.be/dXTEVp0ATzo) and [Github Repo](https://github.com/ClouderDex/CDK-UDP-NLB-Demo) by ClouderDex
+- [Purely Functional Cloud Components with AWS CDK](https://i.am.fog.fish/2019/08/23/purely-functional-cloud-with-aws-cdk.html)
 
 ## Related Projects
 
