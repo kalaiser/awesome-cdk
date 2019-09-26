@@ -43,6 +43,7 @@ This section includes code libraries in various programming languages which vend
 - [GitHub Changelog Crawler](https://github.com/aws-samples/aws-cdk-changelogs-demo) - a fully fledged CDK app written by Nathan Peck which uses Fargate, API Gateway, Lambda, CloudFront, S3, ElastiCache, and Dynamodb.
 - [ECS with CI/CD](https://github.com/rix0rrr/cdk-ecs-demo)
 - [Lambda packaging asset](https://gitlab.com/josef.stach/aws-cdk-lambda-asset)
+- [Open CDK Guide](https://github.com/kevinslin/open-cdk): Open source guide on CDK and best practices
 
 ## Blog Posts & Talks
 
