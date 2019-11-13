@@ -47,6 +47,7 @@ This section includes code libraries in various programming languages which vend
 
 ## Blog Posts & Talks
 
+- [Introduction to how and why CDK](https://www.slideshare.net/ranguard/aws-cdk-introduction-191140240) [keynote/pdf](https://github.com/ranguard/cdk-talk-examples/tree/master/talk)
 - [How to Build a CDK Construct Library](https://garbe.io/blog/2019/03/26/construct-your-own-cdk-construct-library/) by Philipp Garbe
 - [CDK All The Things: A Whirlwind Tour](https://kevinslin.com/aws/cdk_all_the_things/) by Kevin S Lin
 - [Developer Preview Announcement](https://aws.amazon.com/blogs/developer/aws-cdk-developer-preview/)
