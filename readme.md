@@ -30,6 +30,7 @@ This section includes code libraries in various programming languages which vend
 - [cdk-passwordless](https://github.com/farminf/aws-cdk-passwordless): construct for having passwordless authentication using userpool
 - [cdk-ses-template-mailer](https://github.com/mkrn/cdk-ses-template-mailer): Constructs to create AWS SES email templates + microservice to send templated emails with AWS SES.
 - [aws-cdk-pure](https://github.com/fogfish/aws-cdk-pure) - a toolkit to develop purely functional and high-order cloud components with AWS CDK.
+- [cdk-iam-generator](https://www.npmjs.com/package/cdk-iam-generator) - Construct to generate IAM Managed Policies and IAM Roles using JSON Configuration
 
 ## Tools
 
