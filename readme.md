@@ -38,7 +38,6 @@ This section includes code libraries in various programming languages which vend
 - [jsii-publish](https://github.com/udondan/jsii-publish): A [Docker image](https://hub.docker.com/r/udondan/jsii-publish) and [GitHub action](https://github.com/marketplace/actions/jsii-publish) to build and publish CDK constructs created via [JSII](https://github.com/aws/jsii).
 
 ## Training Materials and Sample Code
-
 - [Official CDK Examples](https://github.com/aws-samples/aws-cdk-examples)
 - [CDK Serverless Workshop](https://cdkworkshop.com/)
 - [Infrastructure is Code with the AWS CDK](https://youtu.be/Lh-kVC2r2AU): recording of re:Invent 2018 session
@@ -46,6 +45,7 @@ This section includes code libraries in various programming languages which vend
 - [ECS with CI/CD](https://github.com/rix0rrr/cdk-ecs-demo)
 - [Lambda packaging asset](https://gitlab.com/josef.stach/aws-cdk-lambda-asset)
 - [Open CDK Guide](https://github.com/kevinslin/open-cdk): Open source guide on CDK and best practices
+- [Colorteller Example](https://github.com/denmat/colorteller-aws-cdk): Great example project using Fargate and Appmesh
 
 ## Blog Posts & Talks
 
