@@ -46,6 +46,7 @@ This section includes code libraries in various programming languages which vend
 - [Lambda packaging asset](https://gitlab.com/josef.stach/aws-cdk-lambda-asset)
 - [Open CDK Guide](https://github.com/kevinslin/open-cdk): Open source guide on CDK and best practices
 - [Colorteller Example](https://github.com/denmat/colorteller-aws-cdk): Great example project using Fargate and Appmesh
+- [CDK Patterns](https://github.com/cdk-patterns/serverless): An opensource collection of serverless architecture patterns built with CDK
 
 ## Blog Posts & Talks
 
