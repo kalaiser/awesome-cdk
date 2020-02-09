@@ -20,6 +20,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
-      - uses: maxkomarychev/merge-pal-action@vX.Y.Z
+      - uses: maxkomarychev/merge-pal-action@v0.5.1
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
