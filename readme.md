@@ -75,6 +75,7 @@ This section includes code libraries in various programming languages which vend
 - [tecRacer Amazon AWS Blog](https://aws-blog.de/tags/cdk.html): Several Blog Posts from aws-blog.de by Gernot Glawe
 - [Using CDK to build a UDP NLB Logging Service](https://youtu.be/dXTEVp0ATzo) and [Github Repo](https://github.com/ClouderDex/CDK-UDP-NLB-Demo) by ClouderDex
 - [Purely Functional Cloud Components with AWS CDK](https://i.am.fog.fish/2019/08/23/purely-functional-cloud-with-aws-cdk.html)
+- [Using the CDK to probe multiple accounts (sfn/lambda/sqs/sechub)](https://fudless.xyz/aws/seedecay/)
 - [Scheduled Lambda Functions and CI/CD pipeline with AWS CDK](https://medium.com/hatchsoftware/using-the-aws-cdk-to-build-scheduled-lambda-functions-13eb1674586e) and [Github Repo](https://github.com/HatchSoftware/automatic-aws-db-shutdown-cdk) by Maarten Thoelen
 - [CDK Step Functions](https://dev.to/elthrasher/exploring-aws-cdk-step-functions-1d1e) by Matt Morgan
 - [Loading DynamoDB with Custom Resources](https://dev.to/elthrasher/exploring-aws-cdk-loading-dynamodb-with-custom-resources-jlf) by Matt Morgan
