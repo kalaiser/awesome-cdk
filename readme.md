@@ -25,6 +25,7 @@ This section includes code libraries in various programming languages which vend
 - [Alexa Deployment Pipeline](https://github.com/taimos/cdk-constructs/tree/master/lib/alexa): Construct which creates a CodePipeline to deploy Alexa Skills to Lambda and to the Developer console using AWS SAM and DeployToAlexa action.
 - [cdk-codepipeline-slack](https://github.com/cloudcomponents/cdk-components/blob/master/packages/cdk-codepipeline-slack): Cdk component that provisions a #slack approval workflow
 - [cdk-github-webhook](https://github.com/cloudcomponents/cdk-components/blob/master/packages/cdk-github-webhook): Cdk component that provisions github webhooks
+- [cdk-instanceStopRule](https://github.com/tecracer/cdk-constructs/tree/master/packages/cdk-instanceStopRule) Cdk component which creates an instance with an CloudWatch rule to stop it at the end of the day
 - [cdk-static-website](https://github.com/cloudcomponents/cdk-components/blob/master/packages/cdk-static-website): Cdk component that creates a static website using S3, configures CloudFront (CDN) and maps a custom domain via Route53 (DNS)
 - [cdk-pull-request-check](https://github.com/cloudcomponents/cdk-components/blob/master/packages/cdk-pull-request-check): Cdk component that automatically check pull requests
 - [cdk-passwordless](https://github.com/farminf/aws-cdk-passwordless): construct for having passwordless authentication using userpool
@@ -38,14 +39,18 @@ This section includes code libraries in various programming languages which vend
 - [jsii-publish](https://github.com/udondan/jsii-publish): A [Docker image](https://hub.docker.com/r/udondan/jsii-publish) and [GitHub action](https://github.com/marketplace/actions/jsii-publish) to build and publish CDK constructs created via [JSII](https://github.com/aws/jsii).
 
 ## Training Materials and Sample Code
+
 - [Official CDK Examples](https://github.com/aws-samples/aws-cdk-examples)
 - [CDK Serverless Workshop](https://cdkworkshop.com/)
 - [Infrastructure is Code with the AWS CDK](https://youtu.be/Lh-kVC2r2AU): recording of re:Invent 2018 session
 - [GitHub Changelog Crawler](https://github.com/aws-samples/aws-cdk-changelogs-demo) - a fully fledged CDK app written by Nathan Peck which uses Fargate, API Gateway, Lambda, CloudFront, S3, ElastiCache, and Dynamodb.
 - [ECS with CI/CD](https://github.com/rix0rrr/cdk-ecs-demo)
+- [Example templates for aws cdk](https://github.com/tecracer/cdk-templates): Working TypeScript snippets from several AWS projects
 - [Lambda packaging asset](https://gitlab.com/josef.stach/aws-cdk-lambda-asset)
 - [Open CDK Guide](https://github.com/kevinslin/open-cdk): Open source guide on CDK and best practices
 - [Colorteller Example](https://github.com/denmat/colorteller-aws-cdk): Great example project using Fargate and Appmesh
+- [Create a CI/CD pipeline using CodePipeline and CodeBuild](https://sbstjn.com/deploy-react-cra-with-cdk-codepipeline-and-codebuild.html): The [cra-pipeline](https://github.com/sbstjn/cra-pipeline) project on GitHub shows an AWS CodePipeline with AWS CodeBuild to deploy a static React application
+- [React SPA with server-side rendering on AWS Lambda](https://sbstjn.com/serverless-create-react-app-server-side-rendering-ssr-lamda.html): The [cra-serverless](https://github.com/sbstjn/cra-serverless) project is a serverless architecture to add pre-rendering to a React website created with [create-react-app](https://create-react-app.dev). 
 
 ## Blog Posts & Talks
 
@@ -66,12 +71,15 @@ This section includes code libraries in various programming languages which vend
 - [Using the CDK for AWS MSK Setup](https://www.stefreitag.de/wp/2019/08/31/paths-are-made-by-walking-or-how-aws-cdk-and-msk-work-together/) by Stefan Freitag.
 - [Serverless Dotnet - E01: Intro to AWS CDK](https://www.youtube.com/watch?v=c9UXHPX6-Ns&list=PLbuD6VMxPZScqUXKm2QAc_InCGdP6jKJy) and [Github repository](https://github.com/jakejscott/aws-cdk-phone-verify-api) by Jake Scott.
 - [AWS Tech Talk Webinar](https://www.youtube.com/watch?v=ZWCvNFUN-sU)
+- [tecRacer Amazon AWS Blog](https://aws-blog.de/tags/cdk.html): Several Blog Posts from aws-blog.de by Gernot Glawe
 - [Using CDK to build a UDP NLB Logging Service](https://youtu.be/dXTEVp0ATzo) and [Github Repo](https://github.com/ClouderDex/CDK-UDP-NLB-Demo) by ClouderDex
 - [Purely Functional Cloud Components with AWS CDK](https://i.am.fog.fish/2019/08/23/purely-functional-cloud-with-aws-cdk.html)
 - [Scheduled Lambda Functions and CI/CD pipeline with AWS CDK](https://medium.com/hatchsoftware/using-the-aws-cdk-to-build-scheduled-lambda-functions-13eb1674586e) and [Github Repo](https://github.com/HatchSoftware/automatic-aws-db-shutdown-cdk) by Maarten Thoelen
 - [CDK Step Functions](https://dev.to/elthrasher/exploring-aws-cdk-step-functions-1d1e) by Matt Morgan
 - [Loading DynamoDB with Custom Resources](https://dev.to/elthrasher/exploring-aws-cdk-loading-dynamodb-with-custom-resources-jlf) by Matt Morgan
 - [Loading DynamoDB with Provider Framework](https://dev.to/elthrasher/exploring-aws-cdk-a-million-a-minute-dynamodb-and-providerframework-e92) by Matt Morgan
+- [React SPA with server-side rendering on AWS Lambda](https://sbstjn.com/serverless-create-react-app-server-side-rendering-ssr-lamda.html) by Sebastian Müller
+- [German: React SPA und server-side rendering (SSR) mit AWS Lambda und CloudFront](https://superluminar.io/2020/02/07/react-spa-und-server-side-rendering-ssr-mit-aws-lambda-cloudfront-und-dem-cdk/) by superluminar GmbH
 
 ## Related Projects
 
