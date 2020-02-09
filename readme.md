@@ -86,6 +86,7 @@ This section includes code libraries in various programming languages which vend
 
 - [jsii](https://github.com/awslabs/jsii) - javascript interop interface, the technology the CDK uses to release to multiple programming langauges.
 - [punchcard](https://github.com/punchcard/punchcard) - typescript framework to unify infrastructure and runtime code for the CDK, so you can declare constructs and implement runtime logic within the context of one node.js application.
+- [cra-template-aws-cdk](https://github.com/luisfarzati/rnbw-aws-cdk/tree/master/packages/cra-template-aws-cdk) Create React App template using AWS CDK for out of the box, simple provisioning of serverless React apps.
 
 ## Tips & Tricks
 
