@@ -48,6 +48,7 @@ This section includes code libraries in various programming languages which vend
 - [Open CDK Guide](https://github.com/kevinslin/open-cdk): Open source guide on CDK and best practices
 - [Colorteller Example](https://github.com/denmat/colorteller-aws-cdk): Great example project using Fargate and Appmesh
 - [Create a CI/CD pipeline using CodePipeline and CodeBuild](https://sbstjn.com/deploy-react-cra-with-cdk-codepipeline-and-codebuild.html): The [cra-pipeline](https://github.com/sbstjn/cra-pipeline) project on GitHub shows an AWS CodePipeline with AWS CodeBuild to deploy a static React application
+- [React SPA with server-side rendering on AWS Lambda](https://sbstjn.com/serverless-create-react-app-server-side-rendering-ssr-lamda.html): The [cra-serverless](https://github.com/sbstjn/cra-serverless) project is a serverless architecture to add pre-rendering to a React website created with [create-react-app](https://create-react-app.dev). 
 
 ## Blog Posts & Talks
 
@@ -71,6 +72,8 @@ This section includes code libraries in various programming languages which vend
 - [Using CDK to build a UDP NLB Logging Service](https://youtu.be/dXTEVp0ATzo) and [Github Repo](https://github.com/ClouderDex/CDK-UDP-NLB-Demo) by ClouderDex
 - [Purely Functional Cloud Components with AWS CDK](https://i.am.fog.fish/2019/08/23/purely-functional-cloud-with-aws-cdk.html)
 - [Scheduled Lambda Functions and CI/CD pipeline with AWS CDK](https://medium.com/hatchsoftware/using-the-aws-cdk-to-build-scheduled-lambda-functions-13eb1674586e) and [Github Repo](https://github.com/HatchSoftware/automatic-aws-db-shutdown-cdk) by Maarten Thoelen
+- [React SPA with server-side rendering on AWS Lambda](https://sbstjn.com/serverless-create-react-app-server-side-rendering-ssr-lamda.html) by Sebastian Müller
+- [German: React SPA und server-side rendering (SSR) mit AWS Lambda und CloudFront](https://superluminar.io/2020/02/07/react-spa-und-server-side-rendering-ssr-mit-aws-lambda-cloudfront-und-dem-cdk/) by superluminar GmbH
 
 ## Related Projects
 
