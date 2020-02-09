@@ -49,6 +49,7 @@ This section includes code libraries in various programming languages which vend
 - [Lambda packaging asset](https://gitlab.com/josef.stach/aws-cdk-lambda-asset)
 - [Open CDK Guide](https://github.com/kevinslin/open-cdk): Open source guide on CDK and best practices
 - [Colorteller Example](https://github.com/denmat/colorteller-aws-cdk): Great example project using Fargate and Appmesh
+- [CDK Patterns](https://github.com/cdk-patterns/serverless): An opensource collection of serverless architecture patterns built with CDK
 - [Create a CI/CD pipeline using CodePipeline and CodeBuild](https://sbstjn.com/deploy-react-cra-with-cdk-codepipeline-and-codebuild.html): The [cra-pipeline](https://github.com/sbstjn/cra-pipeline) project on GitHub shows an AWS CodePipeline with AWS CodeBuild to deploy a static React application
 - [React SPA with server-side rendering on AWS Lambda](https://sbstjn.com/serverless-create-react-app-server-side-rendering-ssr-lamda.html): The [cra-serverless](https://github.com/sbstjn/cra-serverless) project is a serverless architecture to add pre-rendering to a React website created with [create-react-app](https://create-react-app.dev). 
 
@@ -76,6 +77,9 @@ This section includes code libraries in various programming languages which vend
 - [Purely Functional Cloud Components with AWS CDK](https://i.am.fog.fish/2019/08/23/purely-functional-cloud-with-aws-cdk.html)
 - [Scheduled Lambda Functions and CI/CD pipeline with AWS CDK](https://medium.com/hatchsoftware/using-the-aws-cdk-to-build-scheduled-lambda-functions-13eb1674586e) and [Github Repo](https://github.com/HatchSoftware/automatic-aws-db-shutdown-cdk) by Maarten Thoelen
 - [AWS Client VPN with mutual TLS](https://lanwen.ru/posts/aws-client-vpn/) by Kirill Merkushev
+- [CDK Step Functions](https://dev.to/elthrasher/exploring-aws-cdk-step-functions-1d1e) by Matt Morgan
+- [Loading DynamoDB with Custom Resources](https://dev.to/elthrasher/exploring-aws-cdk-loading-dynamodb-with-custom-resources-jlf) by Matt Morgan
+- [Loading DynamoDB with Provider Framework](https://dev.to/elthrasher/exploring-aws-cdk-a-million-a-minute-dynamodb-and-providerframework-e92) by Matt Morgan
 - [React SPA with server-side rendering on AWS Lambda](https://sbstjn.com/serverless-create-react-app-server-side-rendering-ssr-lamda.html) by Sebastian Müller
 - [German: React SPA und server-side rendering (SSR) mit AWS Lambda und CloudFront](https://superluminar.io/2020/02/07/react-spa-und-server-side-rendering-ssr-mit-aws-lambda-cloudfront-und-dem-cdk/) by superluminar GmbH
 
@@ -83,6 +87,7 @@ This section includes code libraries in various programming languages which vend
 
 - [jsii](https://github.com/awslabs/jsii) - javascript interop interface, the technology the CDK uses to release to multiple programming langauges.
 - [punchcard](https://github.com/punchcard/punchcard) - typescript framework to unify infrastructure and runtime code for the CDK, so you can declare constructs and implement runtime logic within the context of one node.js application.
+- [cra-template-aws-cdk](https://github.com/luisfarzati/rnbw-aws-cdk/tree/master/packages/cra-template-aws-cdk) Create React App template using AWS CDK for out of the box, simple provisioning of serverless React apps.
 
 ## Tips & Tricks
 
