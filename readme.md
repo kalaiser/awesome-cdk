@@ -32,6 +32,7 @@ This section includes code libraries in various programming languages which vend
 - [cdk-ses-template-mailer](https://github.com/mkrn/cdk-ses-template-mailer): Constructs to create AWS SES email templates + microservice to send templated emails with AWS SES.
 - [aws-cdk-pure](https://github.com/fogfish/aws-cdk-pure) - a toolkit to develop purely functional and high-order cloud components with AWS CDK.
 - [cdk-iam-generator](https://www.npmjs.com/package/cdk-iam-generator) - Construct to generate IAM Managed Policies and IAM Roles using JSON Configuration
+- [cdk-codecommit-backup](https://github.com/cloudcomponents/cdk-components/tree/master/packages/cdk-codecommit-backup) - Backup CodeCommit repositories to S3
 
 ## Tools
 
