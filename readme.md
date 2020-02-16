@@ -52,6 +52,8 @@ This section includes code libraries in various programming languages which vend
 - [CDK Patterns](https://github.com/cdk-patterns/serverless): An opensource collection of serverless architecture patterns built with CDK
 - [Create a CI/CD pipeline using CodePipeline and CodeBuild](https://sbstjn.com/deploy-react-cra-with-cdk-codepipeline-and-codebuild.html): The [cra-pipeline](https://github.com/sbstjn/cra-pipeline) project on GitHub shows an AWS CodePipeline with AWS CodeBuild to deploy a static React application
 - [React SPA with server-side rendering on AWS Lambda](https://sbstjn.com/serverless-create-react-app-server-side-rendering-ssr-lamda.html): The [cra-serverless](https://github.com/sbstjn/cra-serverless) project is a serverless architecture to add pre-rendering to a React website created with [create-react-app](https://create-react-app.dev). 
+- [Mini Tutorial: Setup AWS Lambda + ACM + API Gateway with AWS Cloud Development Kit](https://github.com/shaftoe/api-gateway-lambda-cdk-example): Deploy a functional public API that receives an HTML form (e.g. /contact_us.html) POST request and delivers its data to Pushover notification service.
+- [Example of REST API built with CDK](https://github.com/shaftoe/api-l3x-in): Source code that powers REST APIs at https://api.l3x.in/
 
 ## Blog Posts & Talks
 
@@ -83,10 +85,11 @@ This section includes code libraries in various programming languages which vend
 - [Loading DynamoDB with Provider Framework](https://dev.to/elthrasher/exploring-aws-cdk-a-million-a-minute-dynamodb-and-providerframework-e92) by Matt Morgan
 - [React SPA with server-side rendering on AWS Lambda](https://sbstjn.com/serverless-create-react-app-server-side-rendering-ssr-lamda.html) by Sebastian Müller
 - [German: React SPA und server-side rendering (SSR) mit AWS Lambda und CloudFront](https://superluminar.io/2020/02/07/react-spa-und-server-side-rendering-ssr-mit-aws-lambda-cloudfront-und-dem-cdk/) by superluminar GmbH
+- [Introducing AWS CDK with a real life Lambda and API gateway example](https://a.l3x.in/2020/02/04/migrating-from-terraform-to-cdk.html) by Alexander Fortin
 
 ## Related Projects
 
-- [jsii](https://github.com/awslabs/jsii) - javascript interop interface, the technology the CDK uses to release to multiple programming langauges.
+- [jsii](https://github.com/awslabs/jsii) - javascript interop interface, the technology that CDK uses to release to multiple programming langauges.
 - [punchcard](https://github.com/punchcard/punchcard) - typescript framework to unify infrastructure and runtime code for the CDK, so you can declare constructs and implement runtime logic within the context of one node.js application.
 - [cra-template-aws-cdk](https://github.com/luisfarzati/rnbw-aws-cdk/tree/master/packages/cra-template-aws-cdk) Create React App template using AWS CDK for out of the box, simple provisioning of serverless React apps.
 
