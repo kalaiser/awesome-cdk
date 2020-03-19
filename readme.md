@@ -56,6 +56,7 @@ This section includes code libraries in various programming languages which vend
 - [React SPA with server-side rendering on AWS Lambda](https://sbstjn.com/serverless-create-react-app-server-side-rendering-ssr-lamda.html): The [cra-serverless](https://github.com/sbstjn/cra-serverless) project is a serverless architecture to add pre-rendering to a React website created with [create-react-app](https://create-react-app.dev). 
 - [Mini Tutorial: Setup AWS Lambda + ACM + API Gateway with AWS Cloud Development Kit](https://github.com/shaftoe/api-gateway-lambda-cdk-example): Deploy a functional public API that receives an HTML form (e.g. /contact_us.html) POST request and delivers its data to Pushover notification service.
 - [Example of REST API built with CDK](https://github.com/shaftoe/api-l3x-in): Source code that powers REST APIs at https://api.l3x.in/
+- [dilbert-feed](https://github.com/mlafeldt/dilbert-feed): A serverless application written in Go that allows you to enjoy Dilbert in your RSS feed reader without any ads.
 
 ## Blog Posts & Talks
 
