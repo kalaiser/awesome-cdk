@@ -1,8 +1,19 @@
+---
+title: Awesome CDK
+site_description: A curated list of awesome projects related to the AWS Cloud Development Kit
+ogimage: http://awesome-aws-workshops.com/assets/img/awesomebg-extra.png 
+ogimagealt: Awesome CDK
+---
+
 # Awesome CDK [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome projects related to the [AWS Cloud Development Kit](https://github.com/awslabs/aws-cdk) (AWS CDK).
 
 > DISCLAIMER: this is a personal project and not affiliated with Amazon or AWS.
+
+![last-updated](https://img.shields.io/github/last-commit/eladb/awesome-cdk?color=CB006D&label=last%20updated)
+![activity](https://img.shields.io/github/commit-activity/m/eladb/awesome-cdk)
+
 
 ## Contents
 
@@ -54,7 +65,7 @@ This section includes code libraries in various programming languages which vend
 - [Colorteller Example](https://github.com/denmat/colorteller-aws-cdk): Great example project using Fargate and Appmesh
 - [CDK Patterns](https://github.com/cdk-patterns/serverless): An opensource collection of serverless architecture patterns built with CDK
 - [Create a CI/CD pipeline using CodePipeline and CodeBuild](https://sbstjn.com/deploy-react-cra-with-cdk-codepipeline-and-codebuild.html): The [cra-pipeline](https://github.com/sbstjn/cra-pipeline) project on GitHub shows an AWS CodePipeline with AWS CodeBuild to deploy a static React application
-- [React SPA with server-side rendering on AWS Lambda](https://sbstjn.com/serverless-create-react-app-server-side-rendering-ssr-lamda.html): The [cra-serverless](https://github.com/sbstjn/cra-serverless) project is a serverless architecture to add pre-rendering to a React website created with [create-react-app](https://create-react-app.dev). 
+- [React SPA with server-side rendering on AWS Lambda](https://sbstjn.com/serverless-create-react-app-server-side-rendering-ssr-lamda.html): The [cra-serverless](https://github.com/sbstjn/cra-serverless) project is a serverless architecture to add pre-rendering to a React website created with [create-react-app](https://create-react-app.dev).
 - [Mini Tutorial: Setup AWS Lambda + ACM + API Gateway with AWS Cloud Development Kit](https://github.com/shaftoe/api-gateway-lambda-cdk-example): Deploy a functional public API that receives an HTML form (e.g. /contact_us.html) POST request and delivers its data to Pushover notification service.
 - [Example of REST API built with CDK](https://github.com/shaftoe/api-l3x-in): Source code that powers REST APIs at https://api.l3x.in/
 - [dilbert-feed](https://github.com/mlafeldt/dilbert-feed): A serverless application written in Go that allows you to enjoy Dilbert in your RSS feed reader without any ads.
