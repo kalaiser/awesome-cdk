@@ -1,0 +1,76 @@
+site_name: Awesome CDK
+repo_name: eladb/awesome-cdk
+repo_url: https://github.com/eladb/awesome-cdk
+edit_uri: "" # disable edit icon from theme
+site_author: Elad Ben-Israel
+copyright: To the extent possible under law, Elad Ben-Israel has waived all copyright and related or neighboring rights to this work.
+
+extra_css:
+  - assets/css/extra.css
+nav:
+  - "Awesome CDK": "index.md"
+theme:
+  name: material
+  language: en
+  custom_dir: custom/
+  features:
+    #    - tabs
+    - instant
+  palette:
+    primary: orange
+    accent: indigo
+  favicon: assets/img/favicon.ico
+  icon:
+    logo: material/cloud
+    repo: material/git
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/eladb
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/emeshbi
+#    - icon: fontawesome/brands/linkedin
+#      link: https://linkedin.com/in/diegomagalhaes/
+  manifest: manifest.webmanifest
+markdown_extensions:
+  - extra
+  - admonition
+  - footnotes
+  - meta
+  - codehilite:
+      guess_lang: true
+      linenums: true
+  - toc:
+      permalink: true
+  - pymdownx.caret
+  - pymdownx.tilde
+  - pymdownx.mark
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.keys
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tabbed
+  - pymdownx.magiclink
+  - markdown_blockdiag:
+      format: svg
+  - markdown_include.include
+  - mdx_truly_sane_lists
+plugins:
+  - search
+  - minify:
+      minify_html: true
+  # - htmlproofer
+  - awesome-pages
+  #- pdf-export:
+  #    verbose: false
+  #    media_type: print
+  #    combined: true
+  #    combined_output_path: ./AWSome-aws-workshops.pdf

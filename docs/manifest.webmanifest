@@ -1,0 +1,23 @@
+{
+  "name": "Awesome CDK",
+  "short_name": "Awesome CDK",
+  "description": "A curated list of awesome projects related to the AWS Cloud Development Kit (AWS CDK).  ",
+  "icons": [
+    {
+      "src": "/assets/img/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/img/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/?source=pwa",
+  "background_color": "#FFA724",
+  "display": "fullscreen",
+  "scope": "/",
+  "lang": "en-US",
+  "theme_color": "#FFA724"
+}

@@ -1,0 +1,13 @@
+###### Requirements without Version Specifiers ######`
+mkdocs
+mkdocs-material
+mkdocs-minify-plugin
+mkdocs-awesome-pages-plugin
+mkdocs-htmlproofer-plugin
+markdown-blockdiag
+markdown-include
+mdx_truly_sane_lists
+## !!! WeasyPrint requires cairo, pango, and gdk-pixbuf
+##     use brew to install those dependencies first.
+WeasyPrint 
+mkdocs-pdf-export-plugin

@@ -1,0 +1,25 @@
+@media (min-width: 960px) {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  .md-content__inner > ul:nth-child(5) {
+    display: none;
+  }
+
+  /* display external links with icon
+  div.md-content a[href^="http://"]:not([href*="alinex.gitlab.io"]):after,
+  div.md-content a[href^="https://"]:not([href*="alinex.gitlab.io"]):after,
+  div.md-content a[href^="//"]:not([href*="alinex.gitlab.io"]){
+    font-family: "FontAwesome";
+    content: " \f08e";
+    font-weight: normal;
+    font-style: normal;
+    font-size: 70%;
+    vertical-align: top;
+    display: inline-block;
+    text-decoration: none;
+    padding-left: 3px;
+  }
+  */
+}

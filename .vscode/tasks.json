@@ -1,0 +1,52 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "AWS Workshops: Install Python Dependencies",
+            "type": "shell",
+            "command": "make site_install",
+            "group": "build",
+            "problemMatcher": []
+        },
+        {
+            "label": "AWS Workshops: Link",
+            "type": "shell",
+            "command": "make site_link",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        },
+        {
+            "label": "AWS Workshops: Preview",
+            "type": "shell",
+            "command": "make site_preview",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "isBackground": true,
+            "problemMatcher": []
+        },
+        {
+            "label": "AWS Workshops: Build",
+            "type": "shell",
+            "command": "make site_build",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "AWS Workshops: Deploy",
+            "type": "shell",
+            "command": "make site_deploy",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": []
+        }
+    ]
+}

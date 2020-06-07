@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+
+  <meta property="og:url" content="http://awesome-aws-workshops.com">
+  {% if page and page.meta and page.meta.title %}
+    <meta property="og:title" content="{{ page.meta.title }}">
+  {% elif page and page.title and not page.is_homepage %}
+    <meta property="og:title" content="{{ page.title }} - {{ config.site_name }}">
+  {% else %}
+    <meta property="og:title" content="{{ config.site_name }}">
+  {% endif %}
+  <meta property="og:description" content="{{ page.meta.site_description }}">
+  <meta property="og:image" content="{{ page.meta.ogimage }}">
+  <meta property="og:image:alt" content="{{ page.meta.ogimagealt }}">
+  <meta property="og:image:type" content="image/png">
+  <meta property="og:type" content="website">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@dgomesbr">
+  <meta name="twitter:creator" content="@dgomesbr">
+  {% if page and page.meta and page.meta.title %}
+    <meta property="twitter:title" content="{{ page.meta.title }}">
+  {% elif page and page.title and not page.is_homepage %}
+    <meta property="twitter:title" content="{{ page.title }} - {{ config.site_name }}">
+  {% else %}
+    <meta property="twitter:title" content="{{ config.site_name }}">
+  {% endif %}
+  <meta name="twitter:description" content="{{ page.meta.site_description }}">
+  <meta name="twitter:image" content="{{ page.meta.ogimage }}">
+  <meta name="twitter:image:alt" content="{{ page.meta.ogimagealt }}">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/img/favicon-16x16.png">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZN1Q3QKGDD"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'G-ZN1Q3QKGDD');
+</script>
+{% endblock %}
