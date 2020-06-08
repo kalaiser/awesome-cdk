@@ -25,6 +25,9 @@ This section includes code libraries in various programming languages which vend
 - [cdk-instanceStopRule](https://github.com/tecracer/cdk-constructs/tree/master/packages/cdk-instanceStopRule) Cdk component which creates an instance with an CloudWatch rule to stop it at the end of the day
 - [aws-cdk-pure](https://github.com/fogfish/aws-cdk-pure) - a toolkit to develop purely functional and high-order cloud components with AWS CDK.
 
+### CDK Frameworks
+
+- [auto-cdk](https://github.com/wulfmann/auto-cdk): Automatically generate api-gateway/lambda integrations with the filesystem (beta).
 
 ### Databases
 
