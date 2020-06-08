@@ -61,6 +61,7 @@ This section includes code libraries in various programming languages which vend
 
 ## Tools
 
+- [create-cdk-app](https://github.com/cdk-tools/create-cdk-app): Create CDK apps from templates
 - [GitHub Action](https://github.com/marketplace/actions/aws-cdk-action) for AWS CDK
 - [jsii-publish](https://github.com/udondan/jsii-publish): A [Docker image](https://hub.docker.com/r/udondan/jsii-publish) and [GitHub action](https://github.com/marketplace/actions/jsii-publish) to build and publish CDK constructs created via [JSII](https://github.com/aws/jsii).
 
