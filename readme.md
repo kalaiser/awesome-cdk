@@ -25,10 +25,6 @@ This section includes code libraries in various programming languages which vend
 - [cdk-instanceStopRule](https://github.com/tecracer/cdk-constructs/tree/master/packages/cdk-instanceStopRule) Cdk component which creates an instance with an CloudWatch rule to stop it at the end of the day
 - [aws-cdk-pure](https://github.com/fogfish/aws-cdk-pure) - a toolkit to develop purely functional and high-order cloud components with AWS CDK.
 
-### CDK Frameworks
-
-- [auto-cdk](https://github.com/wulfmann/auto-cdk): Automatically generate api-gateway/lambda integrations with the filesystem (beta).
-
 ### Databases
 
 - [aws-cdk-dynamodb-seeder](https://github.com/elegantdevelopment/aws-cdk-dynamodb-seeder) - A simple CDK seeder for DynamoDB
@@ -61,6 +57,10 @@ This section includes code libraries in various programming languages which vend
 - [cdk-codecommit-backup](https://github.com/cloudcomponents/cdk-components/tree/master/packages/cdk-codecommit-backup) - Backup CodeCommit repositories to S3
 - [Alexa Deployment Pipeline](https://github.com/taimos/cdk-constructs/tree/master/lib/alexa): Construct which creates a CodePipeline to deploy Alexa Skills to Lambda and to the Developer console using AWS SAM and DeployToAlexa action.
 
+### High-Level Frameworks
+
+- [auto-cdk](https://github.com/wulfmann/auto-cdk): Automatically generate api-gateway/lambda integrations with the filesystem (beta).
+- [punchcard](https://github.com/punchcard/punchcard) - typescript framework to unify infrastructure and runtime code for the CDK, so you can declare constructs and implement runtime logic within the context of one node.js application.
 
 ## Tools
 
@@ -121,7 +121,6 @@ This section includes code libraries in various programming languages which vend
 ## Related Projects
 
 - [jsii](https://github.com/awslabs/jsii) - javascript interop interface, the technology that CDK uses to release to multiple programming langauges.
-- [punchcard](https://github.com/punchcard/punchcard) - typescript framework to unify infrastructure and runtime code for the CDK, so you can declare constructs and implement runtime logic within the context of one node.js application.
 - [cra-template-aws-cdk](https://github.com/luisfarzati/rnbw-aws-cdk/tree/master/packages/cra-template-aws-cdk) Create React App template using AWS CDK for out of the box, simple provisioning of serverless React apps.
 
 ## Tips & Tricks
