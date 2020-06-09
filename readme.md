@@ -64,14 +64,19 @@ This section includes code libraries in various programming languages which vend
 - [cdk-codecommit-backup](https://github.com/cloudcomponents/cdk-components/tree/master/packages/cdk-codecommit-backup) - Backup CodeCommit repositories to S3
 - [Alexa Deployment Pipeline](https://github.com/taimos/cdk-constructs/tree/master/lib/alexa): Construct which creates a CodePipeline to deploy Alexa Skills to Lambda and to the Developer console using AWS SAM and DeployToAlexa action.
 
-### High-Level Frameworks
+## High-Level Frameworks
 
 - [punchcard](https://github.com/punchcard/punchcard) - typescript framework to unify infrastructure and runtime code for the CDK, so you can declare constructs and implement runtime logic within the context of one node.js application.
 - [aws-cdk-pure](https://github.com/fogfish/aws-cdk-pure) - a toolkit to develop purely functional and high-order cloud components with AWS CDK.
 
+## Scaffolding
+
+- [ReactJS + Cognito + CDK Starter](https://github.com/vbudilov/reactjs-cognito-starter)
+- [cra-template-aws-cdk](https://github.com/luisfarzati/rnbw-aws-cdk/tree/master/packages/cra-template-aws-cdk) Create React App template using AWS CDK for out of the box, simple provisioning of serverless React apps.
+- [create-cdk-app](https://github.com/cdk-tools/create-cdk-app): Create CDK apps from templates
+
 ## Tools
 
-- [create-cdk-app](https://github.com/cdk-tools/create-cdk-app): Create CDK apps from templates
 - [GitHub Action](https://github.com/marketplace/actions/aws-cdk-action) for AWS CDK
 - [jsii-publish](https://github.com/udondan/jsii-publish): A [Docker image](https://hub.docker.com/r/udondan/jsii-publish) and [GitHub action](https://github.com/marketplace/actions/jsii-publish) to build and publish CDK constructs created via [JSII](https://github.com/aws/jsii).
 
@@ -128,7 +133,6 @@ This section includes code libraries in various programming languages which vend
 ## Related Projects
 
 - [jsii](https://github.com/awslabs/jsii) - javascript interop interface, the technology that CDK uses to release to multiple programming langauges.
-- [cra-template-aws-cdk](https://github.com/luisfarzati/rnbw-aws-cdk/tree/master/packages/cra-template-aws-cdk) Create React App template using AWS CDK for out of the box, simple provisioning of serverless React apps.
 
 ## Tips & Tricks
 
@@ -138,7 +142,6 @@ This section includes code libraries in various programming languages which vend
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
 
 ## License
 
