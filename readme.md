@@ -17,13 +17,10 @@ A curated list of awesome projects related to the [AWS Cloud Development Kit](ht
 
 This section includes code libraries in various programming languages which vend constructs that can be used in CDK apps.
 
+### APIs
 
-### CDK Constructs
-
-- [aws-delivlib](https://github.com/awslabs/aws-delivlib): synthesizes CI/CD pipelines for multi-language software delivery (used by the CDK itself)
-- [cdk-watchful](https://github.com/eladb/cdk-watchful): automatic dashboards and alarms for CDK apps
-- [cdk-instanceStopRule](https://github.com/tecracer/cdk-constructs/tree/master/packages/cdk-instanceStopRule) Cdk component which creates an instance with an CloudWatch rule to stop it at the end of the day
-- [aws-cdk-pure](https://github.com/fogfish/aws-cdk-pure) - a toolkit to develop purely functional and high-order cloud components with AWS CDK.
+- [cdk-chalice](https://github.com/alexpulver/cdk-chalice) - AWS CDK construct for AWS Chalice (Python Serverless Microframework for AWS)
+- [auto-cdk](https://github.com/wulfmann/auto-cdk): Automatically generate api-gateway/lambda integrations with the filesystem (beta).
 
 ### Databases
 
@@ -31,10 +28,9 @@ This section includes code libraries in various programming languages which vend
 - [cdk-tweet-sentiment](https://www.npmjs.com/package/cdk-tweet-sentiment): identify sentiments in tweets and log them into an Amazon DynamoDB table.
 - [cdk-dynamo-table-viewer](https://www.npmjs.com/package/cdk-dynamo-table-viewer): exposes the contents of an Amazon DynamoDB table through a public HTML page.
 
+### Static Websites
 
-### Hosting
 - [cdk-static-website](https://github.com/cloudcomponents/cdk-components/blob/master/packages/cdk-static-website): Cdk component that creates a static website using S3, configures CloudFront (CDN) and maps a custom domain via Route53 (DNS)
-
 
 ### Security
 
@@ -42,6 +38,9 @@ This section includes code libraries in various programming languages which vend
 - [cdk-iam-generator](https://www.npmjs.com/package/cdk-iam-generator) - Construct to generate IAM Managed Policies and IAM Roles using JSON Configuration
 - [𝗖𝟯](https://github.com/SSHcom/c3) enables compliancy with privacy and security best practices.
 
+### Ops
+
+- [cdk-instanceStopRule](https://github.com/tecracer/cdk-constructs/tree/master/packages/cdk-instanceStopRule) Cdk component which creates an instance with a CloudWatch rule to stop it at the end of the day
 
 ### Queue
 
@@ -49,6 +48,13 @@ This section includes code libraries in various programming languages which vend
 - [cdk-ses-template-mailer](https://github.com/mkrn/cdk-ses-template-mailer): Constructs to create AWS SES email templates + microservice to send templated emails with AWS SES.
 - [cdk-sqs-monitored](https://github.com/kamilbiela/cdk-sqs-monitored) - SQS Construct with dead letter queue and configured alarms
 
+### CI/CD
+
+- [aws-delivlib](https://github.com/awslabs/aws-delivlib): synthesizes CI/CD pipelines for multi-language software delivery (used by the CDK itself)
+
+### Monitoring
+
+- [cdk-watchful](https://github.com/eladb/cdk-watchful): automatic dashboards and alarms for CDK apps
 
 ### Workflows
 
@@ -60,8 +66,8 @@ This section includes code libraries in various programming languages which vend
 
 ### High-Level Frameworks
 
-- [auto-cdk](https://github.com/wulfmann/auto-cdk): Automatically generate api-gateway/lambda integrations with the filesystem (beta).
 - [punchcard](https://github.com/punchcard/punchcard) - typescript framework to unify infrastructure and runtime code for the CDK, so you can declare constructs and implement runtime logic within the context of one node.js application.
+- [aws-cdk-pure](https://github.com/fogfish/aws-cdk-pure) - a toolkit to develop purely functional and high-order cloud components with AWS CDK.
 
 ## Tools
 
