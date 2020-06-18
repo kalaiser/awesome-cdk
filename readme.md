@@ -64,6 +64,7 @@ This section includes code libraries in various programming languages which vend
 - [cdk-codepipeline-slack](https://github.com/cloudcomponents/cdk-components/blob/master/packages/cdk-codepipeline-slack): Cdk component that provisions a #slack approval workflow
 - [cdk-codecommit-backup](https://github.com/cloudcomponents/cdk-components/tree/master/packages/cdk-codecommit-backup) - Backup CodeCommit repositories to S3
 - [Alexa Deployment Pipeline](https://github.com/taimos/cdk-constructs/tree/master/lib/alexa): Construct which creates a CodePipeline to deploy Alexa Skills to Lambda and to the Developer console using AWS SAM and DeployToAlexa action.
+- [cdk-developer-tools-notifications](https://github.com/cloudcomponents/cdk-constructs/tree/master/packages/cdk-developer-tools-notifications) - #slack / msteams / email notifications for developer tools: CodeCommit, CodeBuild, CodeDeploy, CodePipeline
 
 ## High-Level Frameworks
 
