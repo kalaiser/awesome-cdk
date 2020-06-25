@@ -82,8 +82,7 @@ This section includes code libraries in various programming languages which vend
 
 - [GitHub Action](https://github.com/marketplace/actions/aws-cdk-action) for AWS CDK
 - [jsii-publish](https://github.com/udondan/jsii-publish): A [Docker image](https://hub.docker.com/r/udondan/jsii-publish) and [GitHub action](https://github.com/marketplace/actions/jsii-publish) to build and publish CDK constructs created via [JSII](https://github.com/aws/jsii).
-- [AWS-CDK-Kotlin-DSL
-](https://github.com/justincase-jp/AWS-CDK-Kotlin-DSL): A Wrapper library of [AWS CDK Java](https://mvnrepository.com/artifact/software.amazon.awscdk). CI automatically generates code and deploys it by daily.
+- [AWS-CDK-Kotlin-DSL](https://github.com/justincase-jp/AWS-CDK-Kotlin-DSL): A Wrapper library of [AWS CDK Java](https://mvnrepository.com/artifact/software.amazon.awscdk). CI automatically generates code and deploys it by daily.
 
 ## Training Materials and Sample Code
 
