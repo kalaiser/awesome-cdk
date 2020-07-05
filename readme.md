@@ -6,12 +6,24 @@ A curated list of awesome projects related to the [AWS Cloud Development Kit](ht
 
 ## Contents
 
-- [Construct Libraries](#construct-libraries)
-- [Tools](#tools)
-- [Training Materials and Sample Code](#training-materials-and-sample-code)
-- [Blog Posts & Talks](#blog-posts--talks)
-- [Tips & Tricks](#tips--tricks)
-- [Related Projects](#related-projects)
+  * [Construct Libraries](#construct-libraries)
+    + [APIs](#apis)
+    + [Databases](#databases)
+    + [Static Websites](#static-websites)
+    + [Security](#security)
+    + [Ops](#ops)
+    + [Queue](#queue)
+    + [CI/CD](#ci-cd)
+    + [Monitoring](#monitoring)
+    + [Workflows](#workflows)
+  * [High-Level Frameworks](#high-level-frameworks)
+  * [Scaffolding](#scaffolding)
+  * [Language Layers](#language-layers)
+  * [Library Publishing](#library-publishing)
+  * [Training Materials and Sample Code](#training-materials-and-sample-code)
+  * [Blog Posts & Talks](#blog-posts---talks)
+  * [Related Projects](#related-projects)
+  * [Tips & Tricks](#tips---tricks)
 
 ## Construct Libraries
 
@@ -79,7 +91,11 @@ This section includes code libraries in various programming languages which vend
 - [create-cdk-app](https://github.com/cdk-tools/create-cdk-app): Create CDK apps from templates
 - [awscdk-jsii-template](https://github.com/pahud/awscdk-jsii-template) a github template repository to generate a ready environment to build, test and publish your [JSII]((https://github.com/aws/jsii)) construct lib for AWS CDK.
 
-## Tools
+## Language Support
+
+- [AWS-CDK-Kotlin-DSL](https://github.com/justincase-jp/AWS-CDK-Kotlin-DSL): A Wrapper library of [AWS CDK Java](https://mvnrepository.com/artifact/software.amazon.awscdk). CI automatically generates code and deploys it by daily.
+
+## Library Publishing
 
 - [GitHub Action](https://github.com/marketplace/actions/aws-cdk-action) for AWS CDK
 - [jsii-publish](https://github.com/udondan/jsii-publish): A [Docker image](https://hub.docker.com/r/udondan/jsii-publish) and [GitHub action](https://github.com/marketplace/actions/jsii-publish) to build and publish CDK constructs created via [JSII](https://github.com/aws/jsii).
