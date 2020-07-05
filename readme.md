@@ -87,6 +87,7 @@ This section includes code libraries in various programming languages which vend
 
 - [Official CDK Examples](https://github.com/aws-samples/aws-cdk-examples)
 - [CDK Serverless Workshop](https://cdkworkshop.com/)
+- [Build an App with AWS Cloud Development Kit course on egghead.io](https://egghead.io/courses/build-an-app-with-the-aws-cloud-development-kit?af=6p5abz)
 - [Infrastructure is Code with the AWS CDK](https://youtu.be/Lh-kVC2r2AU): recording of re:Invent 2018 session
 - [GitHub Changelog Crawler](https://github.com/aws-samples/aws-cdk-changelogs-demo) - a fully fledged CDK app written by Nathan Peck which uses Fargate, API Gateway, Lambda, CloudFront, S3, ElastiCache, and Dynamodb.
 - [ECS with CI/CD](https://github.com/rix0rrr/cdk-ecs-demo)
