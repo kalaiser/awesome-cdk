@@ -54,6 +54,7 @@ This section includes code libraries in various programming languages which vend
 ### Ops
 
 - [cdk-instanceStopRule](https://github.com/tecracer/cdk-constructs/tree/master/packages/cdk-instanceStopRule) Cdk component which creates an instance with a CloudWatch rule to stop it at the end of the day
+- [cdk-time-bomb](https://www.npmjs.com/package/cdk-time-bomb) CDK Construct that implodes your AWS CDK Stack after a set amount of time, save money, be happy!
 
 ### Queue
 
