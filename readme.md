@@ -66,6 +66,7 @@ This section includes code libraries in various programming languages which vend
 
 - [aws-delivlib](https://github.com/awslabs/aws-delivlib): synthesizes CI/CD pipelines for multi-language software delivery (used by the CDK itself)
 - [cdk-blue-green-container-deployment](https://github.com/cloudcomponents/cdk-constructs/tree/master/packages/cdk-blue-green-container-deployment): Blue green container deployment with CodeDeploy
+- [aws-simple-cicd](https://github.com/awslabs/aws-simple-cicd): syntheisizes CI/CD pipelines using AWS cloud native services (CodePipeline, CodeBuild) supporting cross-account deployments. 
 
 ### Monitoring
 
