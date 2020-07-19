@@ -40,6 +40,7 @@ This section includes code libraries in various programming languages which vend
 - [cdk-tweet-sentiment](https://www.npmjs.com/package/cdk-tweet-sentiment): identify sentiments in tweets and log them into an Amazon DynamoDB table.
 - [cdk-dynamo-table-viewer](https://www.npmjs.com/package/cdk-dynamo-table-viewer): exposes the contents of an Amazon DynamoDB table through a public HTML page.
 - [cdk-postgresql](https://github.com/botpress/cdk-postgresql): AWS CDK Constructs for PostgreSQL
+- [cdk-sqlserver-seeder](https://github.com/kolomied/cdk-sqlserver-seeder): CDK construct that executes custom SQL scripts against SQL Server database.
 
 ### Static Websites
 
