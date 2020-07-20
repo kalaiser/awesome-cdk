@@ -163,7 +163,7 @@ This section includes code libraries in various programming languages which vend
 
 ## Related Projects
 
-* [jsii](https://github.com/awslabs/jsii) - JavaScript interop interface, the technology that CDK uses to release to multiple programming langauges.
+* [jsii](https://github.com/awslabs/jsii) - JavaScript interop interface, the technology that CDK uses to create language bindings (currently supports .NET, Java and Python).
 
 ## Tips & Tricks
 
