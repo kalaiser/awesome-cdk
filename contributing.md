@@ -8,12 +8,15 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- Use the following format: `[library](link) - Description.`
+- The link should be the name of the package or project.
+- Add one link per pull-request.
+- Keep descriptions concise, clear and simple, and end them with a period / stop.
+- New categories, or improvements to the existing ones are also welcome.
+- Make sure your text editor is set to remove trailing whitespace.
+- It is desirable for the whole thing to fit on one line after getting rendered by GitHub.
 
 Thank you for your suggestions!
-
 
 ## Updating your PR
 
