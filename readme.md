@@ -1,5 +1,7 @@
 # Awesome CDK [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+[<img src="https://raw.githubusercontent.com/aws/aws-cdk/master/logo/png/AWS-Cloud-Development-Kit_Lockup_Squid.png">](https://github.com/aws/aws-cdk)
+
 A curated list of awesome projects related to the [AWS Cloud Development Kit](https://github.com/awslabs/aws-cdk) (AWS CDK).
 
 > DISCLAIMER: this is a personal project and not affiliated with Amazon or AWS.
