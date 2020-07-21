@@ -1,10 +1,8 @@
-# Awesome CDK [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome CDK [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://raw.githubusercontent.com/aws/aws-cdk/master/logo/default-128-dark.png" align="right" alt="CDK">](https://github.com/aws/aws-cdk)
 
-[<img src="https://raw.githubusercontent.com/aws/aws-cdk/master/logo/png/AWS-Cloud-Development-Kit_Lockup_Squid.png">](https://github.com/aws/aws-cdk)
+> Curated list of awesome [AWS Cloud Development Kit](https://github.com/awslabs/aws-cdk) (AWS CDK) open-source projects, guides, blogs and other resources.
 
-A curated list of awesome projects related to the [AWS Cloud Development Kit](https://github.com/awslabs/aws-cdk) (AWS CDK).
-
-> DISCLAIMER: this is a personal project and not affiliated with Amazon or AWS.
+The AWS Cloud Development Kit (AWS CDK) is an open-source software development framework for defining cloud infrastructure in code.
 
 ## Contents
 
@@ -52,12 +50,12 @@ This section includes code libraries in various programming languages which vend
 
 * [cdk-passwordless](https://github.com/farminf/aws-cdk-passwordless) - Construct for having passwordless authentication using userpool.
 * [cdk-iam-generator](https://www.npmjs.com/package/cdk-iam-generator) - Construct to generate IAM Managed Policies and IAM Roles using JSON Configuration.
-* [𝗖𝟯](https://github.com/SSHcom/c3) - Enables compliancy with privacy and security best practices.
+* [c3](https://github.com/SSHcom/c3) - Enables compliancy with privacy and security best practices.
 
 ### Ops
 
 * [cdk-instanceStopRule](https://github.com/tecracer/cdk-constructs/tree/master/packages/cdk-instanceStopRule) - CDK component which creates an instance with a CloudWatch rule to stop it at the end of the day.
-* [cdk-time-bomb](https://www.npmjs.com/package/cdk-time-bomb) - CDK Construct that implodes your AWS CDK Stack after a set amount of time, save money, be happy!
+* [cdk-time-bomb](https://www.npmjs.com/package/cdk-time-bomb) - CDK Construct that implodes your AWS CDK Stack after a set amount of time.
 
 ### Queue
 
@@ -68,7 +66,7 @@ This section includes code libraries in various programming languages which vend
 ### CI/CD
 
 * [aws-delivlib](https://github.com/awslabs/aws-delivlib) - Synthesizes CI/CD pipelines for multi-language software delivery (used by the CDK itself).
-* [cdk-blue-green-container-deployment](https://github.com/cloudcomponents/cdk-constructs/tree/master/packages/cdk-blue-green-container-deployment) - Blue green container deployment with CodeDeploy.
+* [cdk-blue-green-container-deployment](https://github.com/cloudcomponents/cdk-constructs/tree/master/packages/cdk-blue-green-container-deployment) - Blue/Green container deployment with CodeDeploy.
 
 ### Monitoring
 
@@ -90,7 +88,7 @@ This section includes code libraries in various programming languages which vend
 
 ## Scaffolding
 
-* [ReactJS + Cognito + CDK Starter](https://github.com/vbudilov/reactjs-cognito-starter)
+* [ReactJS + Cognito + CDK Starter](https://github.com/vbudilov/reactjs-cognito-starter) - Starter project for ReactJS + Amazon Cognito + Amazon Amplify Framework with AWS CDK support.
 * [cra-template-aws-cdk](https://github.com/luisfarzati/rnbw-aws-cdk/tree/master/packages/cra-template-aws-cdk) - Create React App template using AWS CDK for out of the box, simple provisioning of serverless React apps.
 * [create-cdk-app](https://github.com/cdk-tools/create-cdk-app) - Create CDK apps from templates.
 * [awscdk-jsii-template](https://github.com/pahud/awscdk-jsii-template) - A GitHub template repository to generate a ready environment to build, test and publish your [JSII]((https://github.com/aws/jsii)) construct lib for AWS CDK.
@@ -107,14 +105,14 @@ This section includes code libraries in various programming languages which vend
 
 ## Training Materials and Sample Code
 
-* [Official CDK Examples](https://github.com/aws-samples/aws-cdk-examples)
-* [CDK Serverless Workshop](https://cdkworkshop.com/)
+* [Official CDK Examples](https://github.com/aws-samples/aws-cdk-examples) - A set of example projects for the AWS CDK.
+* [CDK Serverless Workshop](https://cdkworkshop.com/) - A workshop that guides you through the process of creating and deploying CDK application.
 * [Build an App with AWS Cloud Development Kit course on egghead.io](https://egghead.io/courses/build-an-app-with-the-aws-cloud-development-kit?af=6p5abz)
 * [Infrastructure is Code with the AWS CDK](https://youtu.be/Lh-kVC2r2AU) - Recording of re:Invent 2018 session.
 * [GitHub Changelog Crawler](https://github.com/aws-samples/aws-cdk-changelogs-demo) - A fully fledged CDK app written by Nathan Peck which uses Fargate, API Gateway, Lambda, CloudFront, S3, ElastiCache, and Dynamodb.
-* [ECS with CI/CD](https://github.com/rix0rrr/cdk-ecs-demo)
+* [ECS with CI/CD](https://github.com/rix0rrr/cdk-ecs-demo) - Demo of deploying ECS application using CDK.
 * [Example templates for aws cdk](https://github.com/tecracer/cdk-templates) - Working TypeScript snippets from several AWS projects.
-* [Lambda packaging asset](https://gitlab.com/josef.stach/aws-cdk-lambda-asset)
+* [Lambda packaging asset](https://gitlab.com/josef.stach/aws-cdk-lambda-asset) - CDK asset which builds lambda function and produces a ZIP file with dependencies.
 * [Open CDK Guide](https://github.com/kevinslin/open-cdk) - Open source guide on CDK and best practices.
 * [Colorteller Example](https://github.com/denmat/colorteller-aws-cdk) - Great example project using Fargate and Appmesh.
 * [CDK Patterns](https://github.com/cdk-patterns/serverless) - An opensource collection of serverless architecture patterns built with CDK.
@@ -127,16 +125,16 @@ This section includes code libraries in various programming languages which vend
 
 ## Blog Posts & Talks
 
-* [Introduction to how and why CDK](https://www.slideshare.net/ranguard/aws-cdk-introduction-191140240) - [Keynote/pdf](https://github.com/ranguard/cdk-talk-examples/tree/master/talk).
+* [Introduction to how and why CDK](https://www.slideshare.net/ranguard/aws-cdk-introduction-191140240) - By Leo Lapworth.
 * [How to Build a CDK Construct Library](https://garbe.io/blog/2019/03/26/construct-your-own-cdk-construct-library/) - By Philipp Garbe.
 * [CDK All The Things: A Whirlwind Tour](https://kevinslin.com/aws/cdk_all_the_things/) - By Kevin S Lin.
-* [Developer Preview Announcement](https://aws.amazon.com/blogs/developer/aws-cdk-developer-preview/)
+* [AWS CDK Developer Preview Announcement](https://aws.amazon.com/blogs/developer/aws-cdk-developer-preview/) - The first AWS CDK Developer Preview announced on on 27 August 2018.
 * [Contributing to the AWS Cloud Development Kit](https://aws.amazon.com/blogs/developer/contributing-to-the-aws-cloud-development-kit/) - By Mike Cowgill from Intuit.
 * [First look into AWS Cloud Development Kit](https://garbe.io/blog/2018/08/17/first-look-into-cdk/) - By Philipp Garbe.
 * [Boost your AWS Infrastructure with the CDK](https://www.slideshare.net/philippgarbe/boost-your-aws-infrastructure-with-cdk) - SlideShare by Philipp Garbe.
 * [Getting started with AWS CDK for Amazon ECS](https://aws.amazon.com/blogs/compute/getting-started-with-the-aws-cloud-development-kit-for-amazon-ecs/) - By Nathan Peck.
 * [AWS re:Invent 2018, best of show: CDK](https://medium.com/allermedia-techblog/aws-re-invent-2018-best-of-show-cloud-development-kit-cdk-ad1755561ade) - Aller Media Tech Blog.
-* [AWS User Group Finland Meetup January 2019](https://youtu.be/IIiIoMGTJec)
+* [AWS Cloud Development Kit introduction with Live Demos](https://youtu.be/IIiIoMGTJec) - AWS User Group Finland Meetup January 2019.
 * [AWS CDK — a glimpse into the future](https://medium.com/nordcloud-engineering/aws-cdk-a-glimpse-into-the-future-90db660f8a89) - By Nordcloud Engineering.
 * [AWS Infrastructure as Code with CDK](https://medium.com/avmconsulting-blog/aws-infrastructure-as-code-with-cdk-1d6fa013ce7d) - By Ross Rhodes.
 * [Callbacks with AWS Step Functions](https://medium.com/swlh/callbacks-with-aws-step-functions-a3dde1bc7203) - By Ross Rhodes.
@@ -144,12 +142,12 @@ This section includes code libraries in various programming languages which vend
 * [Using the CDK for AWS MSK Setup](https://www.stefreitag.de/wp/2019/08/31/paths-are-made-by-walking-or-how-aws-cdk-and-msk-work-together/) - By Stefan Freitag.
 * [Serverless Dotnet - E01: Intro to AWS CDK](https://www.youtube.com/watch?v=c9UXHPX6-Ns&list=PLbuD6VMxPZScqUXKm2QAc_InCGdP6jKJy) - By Jake Scott.
 * [GitHub repository](https://github.com/jakejscott/aws-cdk-phone-verify-api) - By Jake Scott.
-* [AWS Tech Talk Webinar](https://www.youtube.com/watch?v=ZWCvNFUN-sU)
+* [Infrastructure is Code with the AWS CDK](https://www.youtube.com/watch?v=ZWCvNFUN-sU) - AWS Tech Talk Webinar.
 * [tecRacer Amazon AWS Blog](https://aws-blog.de/tags/cdk.html) - Several Blog Posts from aws-blog.de by Gernot Glawe.
 * [Using CDK to build a UDP NLB Logging Service](https://youtu.be/dXTEVp0ATzo) - By ClouderDex.
 * [GitHub Repo](https://github.com/ClouderDex/CDK-UDP-NLB-Demo) - By ClouderDex.
-* [Purely Functional Cloud Components with AWS CDK](https://i.am.fog.fish/2019/08/23/purely-functional-cloud-with-aws-cdk.html)
-* [Using the CDK to probe multiple accounts (sfn/lambda/sqs/sechub)](https://fudless.xyz/aws/seedecay/)
+* [Purely Functional Cloud Components with AWS CDK](https://i.am.fog.fish/2019/08/23/purely-functional-cloud-with-aws-cdk.html) - Bu fogfish.
+* [Using the CDK to probe multiple accounts (sfn/lambda/sqs/sechub)](https://fudless.xyz/aws/seedecay/) - Blog post from [fudless.xyz](https://fudless.xyz).
 * [Scheduled Lambda Functions and CI/CD pipeline with AWS CDK](https://medium.com/hatchsoftware/using-the-aws-cdk-to-build-scheduled-lambda-functions-13eb1674586e) - By Maarten Thoelen.
 * [GitHub Repo](https://github.com/HatchSoftware/automatic-aws-db-shutdown-cdk) - By Maarten Thoelen.
 * [AWS Client VPN with mutual TLS](https://lanwen.ru/posts/aws-client-vpn/) - By Kirill Merkushev.
@@ -167,7 +165,7 @@ This section includes code libraries in various programming languages which vend
 
 ## Tips & Tricks
 
-* [Reflect on the CDK Type System](https://gist.github.com/eladb/68a009cf9c953b04a637bac5c40afdbc) (gist)
+* [Reflect on the CDK Type System](https://gist.github.com/eladb/68a009cf9c953b04a637bac5c40afdbc) - Explore the CDK's type system.
 * [Testing Your Construct Library CodeBuild Configuration Locally](https://github.com/aws/aws-codebuild-docker-images/tree/master/local_builds) - With the `jsii/superchain:latest` Docker Image.
 
 ## Contribute
