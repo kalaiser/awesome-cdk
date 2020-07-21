@@ -1,6 +1,4 @@
-# Awesome CDK [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-[<img src="https://raw.githubusercontent.com/aws/aws-cdk/master/logo/default-128-dark.png" aligh="right" alt="CDK">](https://github.com/aws/aws-cdk)
+# Awesome CDK [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://raw.githubusercontent.com/aws/aws-cdk/master/logo/default-128-dark.png" aligh="right" alt="CDK">](https://github.com/aws/aws-cdk)
 
 > Curated list of awesome [AWS Cloud Development Kit](https://github.com/awslabs/aws-cdk) (AWS CDK) open-source projects, guides, blogs and other resources.
 
