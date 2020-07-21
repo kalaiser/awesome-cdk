@@ -1,5 +1,7 @@
 # Awesome CDK [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+[<img src="https://raw.githubusercontent.com/aws/aws-cdk/master/logo/png/AWS-Cloud-Development-Kit_Lockup_Squid.png">](https://github.com/aws/aws-cdk)
+
 A curated list of awesome projects related to the [AWS Cloud Development Kit](https://github.com/awslabs/aws-cdk) (AWS CDK).
 
 > DISCLAIMER: this is a personal project and not affiliated with Amazon or AWS.
@@ -171,10 +173,3 @@ This section includes code libraries in various programming languages which vend
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
-
-To the extent possible under law, Elad Ben-Israel has waived all copyright and
-related or neighboring rights to this work.
