@@ -51,7 +51,7 @@ This section includes code libraries in various programming languages which vend
 * [cdk-passwordless](https://github.com/farminf/aws-cdk-passwordless) - Construct for having passwordless authentication using userpool.
 * [cdk-iam-generator](https://www.npmjs.com/package/cdk-iam-generator) - Construct to generate IAM Managed Policies and IAM Roles using JSON Configuration.
 * [c3](https://github.com/SSHcom/c3) - Enables compliancy with privacy and security best practices.
-* [cdk-iam-floyd](https://www.npmjs.com/package/cdk-iam-floyd) - IAM policy statement generator with fluent interface.
+* [cdk-iam-floyd](https://github.com/udondan/iam-floyd) - IAM policy statement generator with fluent interface.
 
 ### Ops
 
