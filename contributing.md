@@ -9,7 +9,8 @@ project you agree to abide by its terms.
 Ensure your pull request adheres to the following guidelines:
 
 - Use the following format: `[library](link) - Description.`
-- The link should be the name of the package or project.
+- The text of the link should be the name of the package or project.
+- If you add a construct published in multiple languages via JSII, the link should point to the source repository, not to npm, PyPI etc
 - Add one link per pull-request.
 - Keep descriptions concise, clear and simple, and end them with a period / stop.
 - New categories, or improvements to the existing ones are also welcome.
