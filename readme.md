@@ -38,7 +38,7 @@ This section includes code libraries in various programming languages which vend
 
 * [aws-cdk-dynamodb-seeder](https://github.com/elegantdevelopment/aws-cdk-dynamodb-seeder) - A simple CDK seeder for DynamoDB.
 * [cdk-tweet-sentiment](https://www.npmjs.com/package/cdk-tweet-sentiment) - Identify sentiments in tweets and log them into an Amazon DynamoDB table.
-* [cdk-dynamo-table-viewer](https://www.npmjs.com/package/cdk-dynamo-table-viewer) - Exposes the contents of an Amazon DynamoDB table through a public HTML page.
+* [cdk-dynamo-table-viewer](https://github.com/eladb/cdk-dynamo-table-viewer) - Exposes the contents of an Amazon DynamoDB table through a public HTML page.
 * [cdk-postgresql](https://github.com/botpress/cdk-postgresql) - AWS CDK Constructs for PostgreSQL.
 * [cdk-sqlserver-seeder](https://github.com/kolomied/cdk-sqlserver-seeder) - CDK construct that executes custom SQL scripts against SQL Server database.
 
@@ -49,13 +49,13 @@ This section includes code libraries in various programming languages which vend
 ### Security
 
 * [cdk-passwordless](https://github.com/farminf/aws-cdk-passwordless) - Construct for having passwordless authentication using userpool.
-* [cdk-iam-generator](https://www.npmjs.com/package/cdk-iam-generator) - Construct to generate IAM Managed Policies and IAM Roles using JSON Configuration.
+* [cdk-iam-generator](https://github.com/srihariph/cdk-iam-generator) - Construct to generate IAM Managed Policies and IAM Roles using JSON Configuration.
 * [c3](https://github.com/SSHcom/c3) - Enables compliancy with privacy and security best practices.
 
 ### Ops
 
 * [cdk-instanceStopRule](https://github.com/tecracer/cdk-constructs/tree/master/packages/cdk-instanceStopRule) - CDK component which creates an instance with a CloudWatch rule to stop it at the end of the day.
-* [cdk-time-bomb](https://www.npmjs.com/package/cdk-time-bomb) - CDK Construct that implodes your AWS CDK Stack after a set amount of time.
+* [cdk-time-bomb](https://github.com/jmb12686/cdk-time-bomb) - CDK Construct that implodes your AWS CDK Stack after a set amount of time.
 
 ### Queue
 
