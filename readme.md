@@ -124,6 +124,7 @@ This section includes code libraries in various programming languages which vend
 * [Example of REST API built with CDK](https://github.com/shaftoe/api-l3x-in) - Source code that powers REST APIs at https://api.l3x.in/.
 * [dilbert-feed](https://github.com/mlafeldt/dilbert-feed) - A serverless application written in Go that allows you to enjoy Dilbert in your RSS feed reader without any ads.
 * [django-postgres-vue-gitlab-ecs](https://gitlab.com/verbose-equals-true/django-postgres-vue-gitlab-ecs) - An example Django + Vue.js web app deployed with CDK using GitLab CI.
+* [nextjs-vercel-aws-cdk-example](https://github.com/vvo/nextjs-vercel-aws-cdk-example) - A PostgreSQL (RDS), EventBridge (crons) and SNS (background jobs) example along with a Next.js application
 
 ## Blog Posts & Talks
 
