@@ -142,9 +142,9 @@ This section includes code libraries in various programming languages which vend
 * [Callbacks with AWS Step Functions](https://medium.com/swlh/callbacks-with-aws-step-functions-a3dde1bc7203) - By Ross Rhodes.
 * [Using the CDK for CodePipelines Setup](https://www.stefreitag.de/wp/2019/03/07/using-aws-cdk-for-code-pipeline-setup/) - By Stefan Freitag.
 * [Using the CDK for AWS MSK Setup](https://www.stefreitag.de/wp/2019/08/31/paths-are-made-by-walking-or-how-aws-cdk-and-msk-work-together/) - By Stefan Freitag.
-* [Serverless Dotnet - E01: Intro to AWS CDK](https://www.youtube.com/watch?v=c9UXHPX6-Ns&list=PLbuD6VMxPZScqUXKm2QAc_InCGdP6jKJy) - By Jake Scott.
+* [Serverless Dotnet - E01: Intro to AWS CDK](https://youtu.be/c9UXHPX6-Ns) - By Jake Scott.
 * [GitHub repository](https://github.com/jakejscott/aws-cdk-phone-verify-api) - By Jake Scott.
-* [Infrastructure is Code with the AWS CDK](https://www.youtube.com/watch?v=ZWCvNFUN-sU) - AWS Tech Talk Webinar.
+* [Infrastructure is Code with the AWS CDK](https://youtu.be/ZWCvNFUN-sU) - AWS Tech Talk Webinar.
 * [tecRacer Amazon AWS Blog](https://aws-blog.de/tags/cdk.html) - Several Blog Posts from aws-blog.de by Gernot Glawe.
 * [Using CDK to build a UDP NLB Logging Service](https://youtu.be/dXTEVp0ATzo) - By ClouderDex.
 * [GitHub Repo](https://github.com/ClouderDex/CDK-UDP-NLB-Demo) - By ClouderDex.
@@ -156,7 +156,6 @@ This section includes code libraries in various programming languages which vend
 * [CDK Step Functions](https://dev.to/elthrasher/exploring-aws-cdk-step-functions-1d1e) - By Matt Morgan.
 * [Loading DynamoDB with Custom Resources](https://dev.to/elthrasher/exploring-aws-cdk-loading-dynamodb-with-custom-resources-jlf) - By Matt Morgan.
 * [Loading DynamoDB with Provider Framework](https://dev.to/elthrasher/exploring-aws-cdk-a-million-a-minute-dynamodb-and-providerframework-e92) - By Matt Morgan.
-* [React SPA with server-side rendering on AWS Lambda](https://sbstjn.com/serverless-create-react-app-server-side-rendering-ssr-lamda.html) - By Sebastian Müller.
 * [German: React SPA und server-side rendering (SSR) mit AWS Lambda und CloudFront](https://superluminar.io/2020/02/07/react-spa-und-server-side-rendering-ssr-mit-aws-lambda-cloudfront-und-dem-cdk/) - By superluminar GmbH.
 * [Introducing AWS CDK with a real life Lambda and API gateway example](https://a.l3x.in/2020/02/04/migrating-from-terraform-to-cdk.html) - By Alexander Fortin.
 * [CloudWatch Dashboards as Code (the Right Way) Using AWS CDK](https://medium.com/poka-techblog/cloudwatch-dashboards-as-code-the-right-way-using-aws-cdk-1453309c5481) - By Simon-Pierre Gingras.
