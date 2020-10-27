@@ -174,6 +174,6 @@ This section includes code libraries in various programming languages which vend
 * [Reflect on the CDK Type System](https://gist.github.com/eladb/68a009cf9c953b04a637bac5c40afdbc) - Explore the CDK's type system.
 * [Testing Your Construct Library CodeBuild Configuration Locally](https://github.com/aws/aws-codebuild-docker-images/tree/master/local_builds) - With the `jsii/superchain:latest` Docker Image.
 
-## Contribute
+## Contributing
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
