@@ -99,7 +99,8 @@ This section includes code libraries in various programming languages which vend
 
 * [AWS-CDK-Kotlin-DSL](https://github.com/justincase-jp/AWS-CDK-Kotlin-DSL) - A Wrapper library of [AWS CDK Java](https://mvnrepository.com/artifact/software.amazon.awscdk). CI automatically generates code and deploys it by daily.
 * [aws-cdk-maven-plugin](https://github.com/LinguaRobot/aws-cdk-maven-plugin) - A plugin to define and deploy your AWS CDK applications using Java and Maven.
-* [aws-lambda-nodejs-rollup](https://github.com/vvo/aws-lambda-nodejs-rollup) - Alternative Node.js lambda CDK construct, [using rollup.js](https://rollupjs.org/).
+* [aws-lambda-nodejs-webpack](https://github.com/vvo/aws-lambda-nodejs-webpack) - Alternative Node.js lambda CDK construct, using [webpack](https://webpack.js.org/).
+* [aws-lambda-nodejs-esbuild](https://github.com/floydspace/aws-lambda-nodejs-esbuild) - Alternative Node.js lambda CDK construct, using [esbuild](https://github.com/evanw/esbuild).
 
 ## Library Publishing
 
