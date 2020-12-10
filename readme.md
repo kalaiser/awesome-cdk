@@ -129,7 +129,7 @@ This section includes code libraries in various programming languages which vend
 * [nextjs-vercel-aws-cdk-example](https://github.com/vvo/nextjs-vercel-aws-cdk-example) - A PostgreSQL (RDS), EventBridge (crons) and SNS (background jobs) example along with a Next.js application.
 
 ## Blog Posts & Talks
-* [AWS CDK for Beginners](https://levelup.gitconnected.com/aws-cdk-for-beginners-e6c05ad91895) - By Rani Lian
+* [AWS CDK for Beginners](https://levelup.gitconnected.com/aws-cdk-for-beginners-e6c05ad91895) - By Rani Lian.
 * [Introduction to how and why CDK](https://www.slideshare.net/ranguard/aws-cdk-introduction-191140240) - By Leo Lapworth.
 * [How to Build a CDK Construct Library](https://garbe.io/blog/2019/03/26/construct-your-own-cdk-construct-library/) - By Philipp Garbe.
 * [CDK All The Things: A Whirlwind Tour](https://kevinslin.com/aws/cdk_all_the_things/) - By Kevin S Lin.
