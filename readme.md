@@ -52,6 +52,7 @@ This section includes code libraries in various programming languages which vend
 * [cdk-iam-generator](https://github.com/srihariph/cdk-iam-generator) - Construct to generate IAM Managed Policies and IAM Roles using JSON Configuration.
 * [c3](https://github.com/SSHcom/c3) - Enables compliancy with privacy and security best practices.
 * [cdk-iam-floyd](https://github.com/udondan/iam-floyd) - IAM policy statement generator with fluent interface.
+* [k9-cdk](https://github.com/k9securityio/k9-cdk) - Construct to generate secure S3 bucket policies easily.
 
 ### Ops
 
