@@ -82,6 +82,7 @@ This section includes code libraries in various programming languages which vend
 * [cdk-codecommit-backup](https://github.com/cloudcomponents/cdk-components/tree/master/packages/cdk-codecommit-backup) - Backup CodeCommit repositories to S3.
 * [Alexa Deployment Pipeline](https://github.com/taimos/cdk-constructs/tree/master/lib/alexa) - Construct which creates a CodePipeline to deploy Alexa Skills to Lambda and to the Developer console using AWS SAM and DeployToAlexa action.
 * [cdk-developer-tools-notifications](https://github.com/cloudcomponents/cdk-constructs/tree/master/packages/cdk-developer-tools-notifications) - Slack / Microsoft Teams / Email notifications for developer tools: CodeCommit, CodeBuild, CodeDeploy, CodePipeline.
+* [aws-pdf-textract-pipeline](https://github.com/aeksco/aws-pdf-textract-pipeline) - ETL pipeline for crawling PDFs from the Web using Puppeteer and transforming their contents into structured data using AWS Textract and storing the results in DynamoDB.
 
 ## High-Level Frameworks
 
