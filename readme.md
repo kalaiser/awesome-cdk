@@ -45,6 +45,7 @@ This section includes code libraries in various programming languages which vend
 ### Static Websites
 
 * [cdk-static-website](https://github.com/cloudcomponents/cdk-components/blob/master/packages/cdk-static-website) - CDK component that creates a static website using S3, configures CloudFront (CDN) and maps a custom domain via Route53 (DNS).
+* [ness](https://github.com/nessjs/ness) - CDK powered CLI tool for deploying static sites to your AWS account.
 
 ### Security
 
