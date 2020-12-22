@@ -59,6 +59,8 @@ This section includes code libraries in various programming languages which vend
 
 * [cdk-instanceStopRule](https://github.com/tecracer/cdk-constructs/tree/master/packages/cdk-instanceStopRule) - CDK component which creates an instance with a CloudWatch rule to stop it at the end of the day.
 * [cdk-time-bomb](https://github.com/jmb12686/cdk-time-bomb) - CDK Construct that implodes your AWS CDK Stack after a set amount of time.
+* [p6-barrier](https://github.com/p6m7g8/p6-barrier) - CDK Construct Custom Resource which will poll until an AWS Lambda Function isReady returns true and it is ideal for running code AFTER an RDS or EKS is ready.
+
 
 ### Queue
 
