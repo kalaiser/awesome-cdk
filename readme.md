@@ -76,6 +76,9 @@ This section includes code libraries in various programming languages which vend
 * [cdk-watchful](https://github.com/eladb/cdk-watchful) - Automatic dashboards and alarms for CDK apps.
 * [aws-cdk-billing-alarm](https://github.com/alvyn279/aws-cdk-billing-alarm) - Construct that sets up email alerts for exceeding an amount on your AWS bill.
 
+### Organization setup
+* [aws-bootstrap-kit](https://github.com/awslabs/aws-bootstrap-kit) - Creates a multi-account set-up with AWS Organization, AWS SSO, DNS, and AWS CodePipeline.
+
 ### Workflows
 
 * [cdk-pull-request-check](https://github.com/cloudcomponents/cdk-components/blob/master/packages/cdk-pull-request-check) - CDK component that automatically check pull requests.
