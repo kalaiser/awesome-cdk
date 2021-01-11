@@ -15,6 +15,7 @@ The AWS Cloud Development Kit (AWS CDK) is an open-source software development f
   * [Queue](#queue)
   * [CI/CD](#cicd)
   * [Monitoring](#monitoring)
+  * [Organization setup](#organization-setup)
   * [Workflows](#workflows)
 * [High-Level Frameworks](#high-level-frameworks)
 * [Scaffolding](#scaffolding)
