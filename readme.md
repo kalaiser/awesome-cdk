@@ -38,6 +38,7 @@ This section includes code libraries in various programming languages which vend
 - [cdk-passwordless](https://github.com/farminf/aws-cdk-passwordless): construct for having passwordless authentication using userpool
 - [cdk-iam-generator](https://www.npmjs.com/package/cdk-iam-generator) - Construct to generate IAM Managed Policies and IAM Roles using JSON Configuration
 - [𝗖𝟯](https://github.com/SSHcom/c3) enables compliancy with privacy and security best practices.
+- [cdk-cloudfront-authorization](https://github.com/cloudcomponents/cdk-constructs/tree/master/packages/cdk-cloudfront-authorization) - CloudFront with Cognito authentication using Lambda@Edge.
 
 ### Ops
 
