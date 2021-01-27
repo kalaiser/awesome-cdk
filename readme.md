@@ -15,8 +15,8 @@ The AWS Cloud Development Kit (AWS CDK) is an open-source software development f
   * [Queue](#queue)
   * [CI/CD](#cicd)
   * [Monitoring](#monitoring)
-  * [Organization setup](#organization-setup)
   * [Workflows](#workflows)
+  * [Multi-accounts setup](#multi-accounts-setup)
 * [High-Level Frameworks](#high-level-frameworks)
 * [Scaffolding](#scaffolding)
 * [Language Support](#language-support)
@@ -77,9 +77,6 @@ This section includes code libraries in various programming languages which vend
 * [cdk-watchful](https://github.com/eladb/cdk-watchful) - Automatic dashboards and alarms for CDK apps.
 * [aws-cdk-billing-alarm](https://github.com/alvyn279/aws-cdk-billing-alarm) - Construct that sets up email alerts for exceeding an amount on your AWS bill.
 
-### Organization setup
-* [aws-bootstrap-kit](https://github.com/awslabs/aws-bootstrap-kit) - Creates a multi-account set-up with AWS Organization, AWS SSO, DNS, and AWS CodePipeline.
-
 ### Workflows
 
 * [cdk-pull-request-check](https://github.com/cloudcomponents/cdk-components/blob/master/packages/cdk-pull-request-check) - CDK component that automatically check pull requests.
@@ -89,6 +86,9 @@ This section includes code libraries in various programming languages which vend
 * [Alexa Deployment Pipeline](https://github.com/taimos/cdk-constructs/tree/master/lib/alexa) - Construct which creates a CodePipeline to deploy Alexa Skills to Lambda and to the Developer console using AWS SAM and DeployToAlexa action.
 * [cdk-developer-tools-notifications](https://github.com/cloudcomponents/cdk-constructs/tree/master/packages/cdk-developer-tools-notifications) - Slack / Microsoft Teams / Email notifications for developer tools: CodeCommit, CodeBuild, CodeDeploy, CodePipeline.
 * [aws-pdf-textract-pipeline](https://github.com/aeksco/aws-pdf-textract-pipeline) - ETL pipeline for crawling PDFs from the Web using Puppeteer and transforming their contents into structured data using AWS Textract and storing the results in DynamoDB.
+
+### Multi-accounts setup
+* [aws-bootstrap-kit](https://github.com/awslabs/aws-bootstrap-kit) - Creates a multi-account set-up with AWS Organization, AWS SSO, DNS, and AWS CodePipeline.
 
 ## High-Level Frameworks
 
