@@ -1,0 +1,10 @@
+{
+    "name": "awesome-cdk",
+    "description": "A curated list of awesome projects related to the AWS Cloud Development Kit (AWS CDK).",
+    "scripts": {
+        "test": "awesome-lint"
+    },
+    "devDependencies": {
+        "awesome-lint": "*"
+    }
+}
