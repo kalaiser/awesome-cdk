@@ -96,6 +96,7 @@ This section includes code libraries in various programming languages which vend
 * [punchcard](https://github.com/punchcard/punchcard) - TypeScript framework to unify infrastructure and runtime code for the CDK, so you can declare constructs and implement runtime logic within the context of one Node.js application.
 * [aws-cdk-pure](https://github.com/fogfish/aws-cdk-pure) - A toolkit to develop purely functional and high-order cloud components with AWS CDK.
 * [cdk-stepfunctions-patterns](https://github.com/kolomied/cdk-stepfunctions-patterns) - A set of Step Functions high-level resiliency patterns.
+* [booster](https://framework.booster.cloud) - Booster framework is the most complete solution to build event-driven applications. It's an open-source framework that makes use of high-level abstractions and conventions to help you develop advanced event-driven applications focusing on business logic exclusively. ‍It has been built on top of the CDK.
 
 ## Scaffolding
 
