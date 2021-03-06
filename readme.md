@@ -21,6 +21,7 @@ The AWS Cloud Development Kit (AWS CDK) is an open-source software development f
 * [Scaffolding](#scaffolding)
 * [Language Support](#language-support)
 * [Library Publishing](#library-publishing)
+* [Tooling](#Tooling)
 * [Training Materials and Sample Code](#training-materials-and-sample-code)
 * [Blog Posts & Talks](#blog-posts--talks)
 * [Related Projects](#related-projects)
@@ -115,6 +116,10 @@ This section includes code libraries in various programming languages which vend
 
 * [GitHub Action](https://github.com/marketplace/actions/aws-cdk-action) - GitHub Action for AWS CDK.
 * [jsii-publish](https://github.com/udondan/jsii-publish) - A [Docker image](https://hub.docker.com/r/udondan/jsii-publish) and [GitHub action](https://github.com/marketplace/actions/jsii-publish) to build and publish CDK constructs created via [JSII](https://github.com/aws/jsii).
+
+## Tooling
+
+* [CDK-Dia](https://github.com/pistazie/cdk-dia) - Automatic infrastructure diagrams for AWS CDK.
 
 ## Training Materials and Sample Code
 
