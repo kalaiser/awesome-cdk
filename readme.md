@@ -97,6 +97,7 @@ This section includes code libraries in various programming languages which vend
 * [punchcard](https://github.com/punchcard/punchcard) - TypeScript framework to unify infrastructure and runtime code for the CDK, so you can declare constructs and implement runtime logic within the context of one Node.js application.
 * [aws-cdk-pure](https://github.com/fogfish/aws-cdk-pure) - A toolkit to develop purely functional and high-order cloud components with AWS CDK.
 * [cdk-stepfunctions-patterns](https://github.com/kolomied/cdk-stepfunctions-patterns) - A set of Step Functions high-level resiliency patterns.
+* [SST](https://github.com/serverless-stack/serverless-stack) - An open soruce framework for building serverless applications with CDK. It features a Live Lambda Development environment, to test and debug Lambda functions locally without having to redeploy them.
 
 ## Scaffolding
 
