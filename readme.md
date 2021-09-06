@@ -99,6 +99,7 @@ This section includes code libraries in various programming languages which vend
 * [cdk-stepfunctions-patterns](https://github.com/kolomied/cdk-stepfunctions-patterns) - A set of Step Functions high-level resiliency patterns.
 * [Orkestra](https://github.com/knowsuchagency/orkestra) - An event-driven alternative to Airflow built on the AWS CDK and Step Functions.
 * [SST](https://github.com/serverless-stack/serverless-stack) - An open source framework for building serverless applications with CDK. It features a Live Lambda Development environment, to test and debug Lambda functions locally without having to redeploy them.
+* [Datajob](https://github.com/vincentclaes/datajob) - Build and deploy a serverless data pipeline or machine learning pipeline on AWS with no effort. 
 
 ## Scaffolding
 
