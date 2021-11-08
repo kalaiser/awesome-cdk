@@ -145,6 +145,7 @@ This section includes code libraries in various programming languages which vend
 * [django-postgres-vue-gitlab-ecs](https://gitlab.com/verbose-equals-true/django-postgres-vue-gitlab-ecs) - An example Django + Vue.js web app deployed with CDK using GitLab CI.
 * [nextjs-vercel-aws-cdk-example](https://github.com/vvo/nextjs-vercel-aws-cdk-example) - A PostgreSQL (RDS), EventBridge (crons) and SNS (background jobs) example along with a Next.js application.
 * [Create and Publish CDK Constructs Using projen and jsii](https://github.com/seeebiii/projen-test) - A step-by-step guide with sample code to create a new CDK construct using [projen](https://github.com/projen/projen) and `jsii` and publish it to npm, Maven Central, PyPi and NuGet.
+* [Learn Full Stack Serverless Apps and API Development with CDK in Baby Steps](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk) - A repository to learn CDK using TypeScript with Videos of every step including code.
 
 ## Blog Posts & Talks
 
