@@ -91,6 +91,7 @@ This section includes code libraries in various programming languages which vend
 
 ### Multi-accounts setup
 * [aws-bootstrap-kit](https://github.com/awslabs/aws-bootstrap-kit) - Creates a multi-account set-up with AWS Organization, AWS SSO, DNS, and AWS CodePipeline.
+* [cdk-organizations](https://github.com/pepperize/cdk-organizations) - CDK constructs that helps to provision AWS Organization, Organizational Units (OU), Accounts and Policies.
 
 ## High-Level Frameworks
 
