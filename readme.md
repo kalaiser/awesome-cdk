@@ -77,7 +77,7 @@ This section includes code libraries in various programming languages which vend
 
 ### Monitoring
 
-* [cdk-watchful](https://github.com/eladb/cdk-watchful) - Automatic dashboards and alarms for CDK apps.
+* [cdk-monitoring-constructs](https://github.com/cdklabs/cdk-monitoring-constructs) - Automatic dashboards and alarms for CDK apps.
 * [aws-cdk-billing-alarm](https://github.com/alvyn279/aws-cdk-billing-alarm) - Construct that sets up email alerts for exceeding an amount on your AWS bill.
 
 ### Workflows
