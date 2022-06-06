@@ -35,6 +35,7 @@ This section includes code libraries in various programming languages which vend
 
 * [cdk-chalice](https://github.com/alexpulver/cdk-chalice) - AWS CDK construct for AWS Chalice (Python Serverless Microframework for AWS).
 * [auto-cdk](https://github.com/wulfmann/auto-cdk) - Automatically generate api-gateway/lambda integrations with the filesystem (beta).
+* [crow-api](https://github.com/thomasstep/crow-api) - Create a serverless API with routes based on your file structure.
 
 ### Databases
 
@@ -91,6 +92,7 @@ This section includes code libraries in various programming languages which vend
 
 ### Multi-accounts setup
 * [aws-bootstrap-kit](https://github.com/awslabs/aws-bootstrap-kit) - Creates a multi-account set-up with AWS Organization, AWS SSO, DNS, and AWS CodePipeline.
+* [cdk-organizations](https://github.com/pepperize/cdk-organizations) - CDK constructs that helps to provision AWS Organization, Organizational Units (OU), Accounts and Policies.
 
 ## High-Level Frameworks
 
