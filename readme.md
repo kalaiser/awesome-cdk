@@ -193,6 +193,7 @@ This section includes code libraries in various programming languages which vend
 * [jsii](https://github.com/awslabs/jsii) - JavaScript interop interface, the technology that CDK uses to create language bindings (currently supports .NET, Java and Python).
 * [cdk8s](https://github.com/awslabs/cdk8s/) - Define Kubernetes native apps and abstractions using object-oriented programming.
 * [cdktf](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform.
+* [cdktg](https://github.com/hupe1980/cdk-threagile) - Agile Threat Modeling as Code
 
 ## Tips & Tricks
 
