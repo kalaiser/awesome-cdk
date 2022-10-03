@@ -35,6 +35,7 @@ This section includes code libraries in various programming languages which vend
 
 * [cdk-chalice](https://github.com/alexpulver/cdk-chalice) - AWS CDK construct for AWS Chalice (Python Serverless Microframework for AWS).
 * [auto-cdk](https://github.com/wulfmann/auto-cdk) - Automatically generate api-gateway/lambda integrations with the filesystem (beta).
+* [crow-api](https://github.com/thomasstep/crow-api) - Create a serverless API with routes based on your file structure.
 
 ### Databases
 
@@ -57,7 +58,7 @@ This section includes code libraries in various programming languages which vend
 * [cdk-iam-floyd](https://github.com/udondan/iam-floyd) - IAM policy statement generator with fluent interface.
 * [k9-cdk](https://github.com/k9securityio/k9-cdk) - Construct to generate secure S3 bucket policies easily.
 * [cdk-cloudfront-authorization](https://github.com/cloudcomponents/cdk-constructs/tree/master/packages/cdk-cloudfront-authorization) - CloudFront with Cognito authentication using Lambda@Edge.
-
+* [aws-firewall-factory](https://github.com/globaldatanet/aws-firewall-factory) - Deploy, update, and stage your WAFs while managing them centrally via FMS.
 ### Ops
 
 * [cdk-instanceStopRule](https://github.com/tecracer/cdk-constructs/tree/master/packages/cdk-instanceStopRule) - CDK component which creates an instance with a CloudWatch rule to stop it at the end of the day.
@@ -78,6 +79,7 @@ This section includes code libraries in various programming languages which vend
 
 * [cdk-watchful](https://github.com/eladb/cdk-watchful) - Automatic dashboards and alarms for CDK apps.
 * [aws-cdk-billing-alarm](https://github.com/alvyn279/aws-cdk-billing-alarm) - Construct that sets up email alerts for exceeding an amount on your AWS bill.
+* [cdk-monitoring-constructs](https://github.com/cdklabs/cdk-monitoring-constructs) - Use high-level APIs to create monitoring for your AWS apps. Generates dashboards automatically.
 
 ### Workflows
 
@@ -91,6 +93,7 @@ This section includes code libraries in various programming languages which vend
 
 ### Multi-accounts setup
 * [aws-bootstrap-kit](https://github.com/awslabs/aws-bootstrap-kit) - Creates a multi-account set-up with AWS Organization, AWS SSO, DNS, and AWS CodePipeline.
+* [cdk-organizations](https://github.com/pepperize/cdk-organizations) - CDK constructs that helps to provision AWS Organization, Organizational Units (OU), Accounts and Policies.
 
 ## High-Level Frameworks
 
