@@ -63,6 +63,7 @@ This section includes code libraries in various programming languages which vend
 
 * [cdk-instanceStopRule](https://github.com/tecracer/cdk-constructs/tree/master/packages/cdk-instanceStopRule) - CDK component which creates an instance with a CloudWatch rule to stop it at the end of the day.
 * [cdk-time-bomb](https://github.com/jmb12686/cdk-time-bomb) - CDK Construct that implodes your AWS CDK Stack after a set amount of time.
+* [cdk-self-destruct](https://github.com/NimmLor/cdk-self-destruct) - Schedule the destruction of CDK Stacks and destroy all associated resources
 
 ### Queue
 
