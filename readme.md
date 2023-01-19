@@ -59,6 +59,7 @@ This section includes code libraries in various programming languages which vend
 * [k9-cdk](https://github.com/k9securityio/k9-cdk) - Construct to generate secure S3 bucket policies easily.
 * [cdk-cloudfront-authorization](https://github.com/cloudcomponents/cdk-constructs/tree/master/packages/cdk-cloudfront-authorization) - CloudFront with Cognito authentication using Lambda@Edge.
 * [aws-firewall-factory](https://github.com/globaldatanet/aws-firewall-factory) - Deploy, update, and stage your WAFs while managing them centrally via FMS.
+* [cdk-sops-secrets](https://github.com/markussiebert/cdk-sops-secrets) - Securely sync secrets from your git repository to aws secretsmanager.
 ### Ops
 
 * [cdk-instanceStopRule](https://github.com/tecracer/cdk-constructs/tree/master/packages/cdk-instanceStopRule) - CDK component which creates an instance with a CloudWatch rule to stop it at the end of the day.
