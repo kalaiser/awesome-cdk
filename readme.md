@@ -36,6 +36,7 @@ This section includes code libraries in various programming languages which vend
 * [cdk-chalice](https://github.com/alexpulver/cdk-chalice) - AWS CDK construct for AWS Chalice (Python Serverless Microframework for AWS).
 * [auto-cdk](https://github.com/wulfmann/auto-cdk) - Automatically generate api-gateway/lambda integrations with the filesystem (beta).
 * [crow-api](https://github.com/thomasstep/crow-api) - Create a serverless API with routes based on your file structure.
+* [cdk-internal-gateway](https://github.com/pharindoko/cdk-internal-gateway) - CDK construct to create internal serverless applications and static websites.
 
 ### Databases
 
